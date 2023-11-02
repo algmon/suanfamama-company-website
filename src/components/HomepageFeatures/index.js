@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '垂类大模型',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        基础大模型 + 垂类知识库是企业智能的未来，微调是点睛之笔。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '多端适配',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        无论您是习惯使用微信，还是Twitter，还是钉钉。我们的智能聊天机器人能无缝渗入每个端。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '强大技术团队',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        技术专家亲自响应客户需求，包括技术咨询，项目实施落地到交付全过程。
       </>
     ),
   },

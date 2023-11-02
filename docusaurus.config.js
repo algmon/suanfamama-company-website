@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Algmon 算法妈妈',
+  title: '算法妈妈',
   tagline: '业界领先的垂类大模型技术提供商',
   favicon: 'img/favicon.ico',
 
@@ -71,14 +71,40 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            to: '/blog',
+            label: '新闻',
+            position: 'left'
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'docSidebar',
+            sidebarId: 'productSidebar',
+            position: 'left',
+            label: '产品与技术',
+          },
+          /*
+          {
+            to: '/service',
+            label: '服务',
+            position: 'left'
+          },
+          {
+            to: '/tech',
+            label: '核心技术',
+            position: 'left'
+          },
+          */
+          {
+            to: 'https://fashion.algmon.com/',
+            label: '赋能时尚',
+            position: 'right'
+          },
+          {
+            to: 'https://education.algmon.com/',
+            label: '赋能教培',
+            position: 'right'
+          },
+          {
+            href: 'https://github.com/algmon',
             label: 'GitHub',
             position: 'right',
           },
@@ -88,33 +114,38 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
+            /**
             items: [
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
             ],
+            */
           },
           {
-            title: 'Community',
+            title: '社群',
+            /**
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://stackoverflow.com/questions/tagged/algmon',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/algmon',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/algmon',
               },
             ],
+            */
           },
           {
-            title: 'More',
+            title: '更多',
+            /**
             items: [
               {
                 label: 'Blog',
@@ -122,12 +153,13 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/algmon',
               },
             ],
+            */
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 算法妈妈。 Built with Love.`,
+        copyright: `Copyright © 2020 - ${new Date().getFullYear()} 算法妈妈，用大爱自动构建。`,
       },
       prism: {
         theme: lightCodeTheme,
