@@ -77,10 +77,35 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'productSidebar',
+            sidebarId: 'productSidebar1',
             position: 'left',
-            label: '产品与技术',
+            label: '聊天机器人产品',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'productSidebar2',
+            position: 'left',
+            label: '应用平台产品',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'techSidebar1',
+            position: 'left',
+            label: '大模型技术',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'techSidebar2',
+            position: 'left',
+            label: '检索增强技术',
+          },
+          /*
+          {
+            to: '/blog',
+            label: '教程',
+            position: 'left'
+          },
+          */
           /*
           {
             to: '/service',
@@ -115,45 +140,29 @@ const config = {
         links: [
           {
             title: '文档',
-            /**
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '通用研发规范',
+                to: '/docs/guide/',
               },
             ],
-            */
           },
           {
             title: '社群',
-            /**
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/algmon',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/algmon',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/algmon',
+                label: 'X & Twitter',
+                href: 'https://twitter.com/algmon2024',
               },
             ],
-            */
           },
           {
             title: '更多',
-            /**
+            /*
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/algmon',
+                label: '联系地址：广州市越秀区麦栏街20号3楼',
+                to: '',
               },
             ],
             */
