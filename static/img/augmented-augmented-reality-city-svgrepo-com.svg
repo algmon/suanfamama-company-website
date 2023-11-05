@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 128 128" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+	.st0{fill:#1CA2BB;}
+	.st1{fill:#EAC100;}
+</style>
+<g id="_x31_2_3D_Printing"/>
+<g id="_x31_1_VR_Gear"/>
+<g id="_x31_0_Virtual_reality"/>
+<g id="_x39__Augmented_reality">
+<g>
+<path class="st0" d="M28,28v56H16c-2.2,0-4-1.8-4-4V32c0-2.2,1.8-4,4-4H28z"/>
+<path class="st0" d="M100,28v56h12c2.2,0,4-1.8,4-4V32c0-2.2-1.8-4-4-4H100z"/>
+<rect class="st1" height="56" width="72" x="28" y="28"/>
+<polyline class="st0" points="64,108 64,68 84,68 84,108   "/>
+<polyline class="st0" points="44,108 44,52 64,52 64,108   "/>
+<path class="st0" d="M88,28c0,4.4-8,16-8,16s-8-11.6-8-16s3.6-8,8-8S88,23.6,88,28z"/>
+<g>
+<polygon points="80,104 68,104 68,92 60,92 60,104 48,104 48,92 40,92 40,112 88,112 88,92 80,92    "/>
+<path d="M112,24H91.3c-1.7-4.7-6.1-8-11.3-8s-9.6,3.3-11.3,8H16c-4.4,0-8,3.6-8,8v48c0,4.4,3.6,8,8,8h96c4.4,0,8-3.6,8-8V32     C120,27.6,116.4,24,112,24z M60,80H48V56h12V80z M68,72h12v8H68V72z M68,64V48H40v32h-8V32h36.8c1.8,5.1,5.9,11.3,7.9,14.3L80,51     l3.3-4.8c2-2.9,6.1-9.2,7.9-14.3H96v48h-8V64H68z M80,24c2.2,0,4,1.8,4,4c0,1.2-1.7,4.7-4,8.6c-2.3-3.9-4-7.4-4-8.6     C76,25.8,77.8,24,80,24z M16,32h8v48h-8V32z M112,80h-8V32h8V80z"/>
+</g>
+</g>
+</g>
+<g id="_x38__Teleport"/>
+<g id="_x37__Glassess"/>
+<g id="_x36__Folding_phone"/>
+<g id="_x35__Drone"/>
+<g id="_x34__Retina_scan"/>
+<g id="_x33__Smartwatch"/>
+<g id="_x32__Bionic_Arm"/>
+<g id="_x31__Chip"/>
+</svg>
