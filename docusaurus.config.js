@@ -46,6 +46,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -76,56 +78,48 @@ const config = {
             position: 'left'
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'productSidebar1',
+            type: 'dropdown',
+            label: '产品',
             position: 'left',
-            label: '聊天机器人产品',
+            items: [
+              {
+                label: '聊天机器人',
+                type: 'docSidebar',
+                sidebarId: 'productSidebar1',
+              },
+              {
+                label: '应用平台',
+                type: 'docSidebar',
+                sidebarId: 'productSidebar2',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
+            label: '技术',
+            position: 'left',
+            items: [
+              {
+                label: '大模型技术',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar1',
+              },              
+              {
+                label: '检索增强技术',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar2',
+              },              
+            ],
           },
           {
             type: 'docSidebar',
-            sidebarId: 'productSidebar2',
+            sidebarId: 'serviceSidebar1',
             position: 'left',
-            label: '应用平台产品',
+            label: '服务',           
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'techSidebar1',
-            position: 'left',
-            label: '大模型技术',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'techSidebar2',
-            position: 'left',
-            label: '检索增强技术',
-          },
-          /*
-          {
-            to: '/blog',
-            label: '教程',
-            position: 'left'
-          },
-          */
-          /*
-          {
-            to: '/service',
-            label: '服务',
-            position: 'left'
-          },
-          {
-            to: '/tech',
-            label: '核心技术',
-            position: 'left'
-          },
-          */
-          {
-            to: 'https://fashion.algmon.com/',
-            label: '赋能时尚',
-            position: 'right'
-          },
-          {
-            to: 'https://education.algmon.com/',
-            label: '赋能教培',
+            to: '/docs/about/',
+            label: '公司简介',
             position: 'right'
           },
           {
@@ -144,6 +138,19 @@ const config = {
               {
                 label: '通用研发规范',
                 to: '/docs/guide/',
+              },
+            ],
+          },
+          {
+            title: '成功案例',
+            items: [
+              {
+                label: '时尚行业',
+                href: 'https://fashion.algmon.com/',
+              },
+              {
+                label: '教培行业',
+                href: 'https://education.algmon.com/',
               },
             ],
           },
