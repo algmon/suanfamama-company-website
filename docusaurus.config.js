@@ -100,15 +100,35 @@ const config = {
             position: 'left',
             items: [
               {
-                label: '大模型技术',
+                label: '大模型',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar1',
               },              
               {
-                label: '检索增强技术',
+                label: '检索增强',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar2',
-              },              
+              },
+              {
+                label: '记忆增强',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar3',
+              },
+              {
+                label: 'LangChain',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar4',
+              },
+              {
+                label: '智能体',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar5',
+              },
+              {
+                label: 'Chroma',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar6',
+              },
             ],
           },
           {
