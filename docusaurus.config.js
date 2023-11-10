@@ -129,6 +129,11 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar6',
               },
+              {
+                label: 'Nextjs',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar7',
+              },
             ],
           },
           {
@@ -156,7 +161,7 @@ const config = {
             title: '文档',
             items: [
               {
-                label: '通用研发规范',
+                label: '心流',
                 to: '/docs/guide/',
               },
             ],
