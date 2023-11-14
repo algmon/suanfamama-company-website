@@ -92,6 +92,11 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'productSidebar2',
               },
+              {
+                label: 'GPTs',
+                type: 'docSidebar',
+                sidebarId: 'productSidebar3',
+              },
             ],
           },
           {
@@ -133,6 +138,11 @@ const config = {
                 label: 'Nextjs',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar7',
+              },
+              {
+                label: 'Assistant API',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar8',
               },
             ],
           },
