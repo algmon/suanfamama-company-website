@@ -83,7 +83,7 @@ const config = {
             position: 'left',
             items: [
               {
-                label: '聊天机器人',
+                label: '微信聊天机器人',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
@@ -114,21 +114,25 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar2',
               },
+              /*
               {
                 label: '记忆增强',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar3',
               },
+              */
               {
                 label: 'LangChain',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar4',
               },
+              /*
               {
                 label: '智能体',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar5',
               },
+              */
               {
                 label: 'Chroma',
                 type: 'docSidebar',
