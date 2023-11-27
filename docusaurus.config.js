@@ -93,7 +93,7 @@ const config = {
                 sidebarId: 'productSidebar2',
               },
               {
-                label: 'GPTs',
+                label: 'GPTs解决方案',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar3',
               },
@@ -157,6 +157,12 @@ const config = {
             label: '服务',           
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'researchSidebar1',
+            position: 'left',
+            label: '研究',           
+          },
+          {
             to: '/docs/about/',
             label: '公司简介',
             position: 'right'
@@ -172,11 +178,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '竞调',
             items: [
               {
-                label: '心流',
-                to: '/docs/guide/',
+                label: '初创公司 & 竞品',
+                to: '/docs/list/',
               },
             ],
           },
