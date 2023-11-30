@@ -2,10 +2,12 @@
 sidebar_position: 1
 ---
 
-# 2023-11-26前沿论文解读
+# 2023-11-26论文解读
 
 ## Paper Title
 [An Embodied Generalist Agent in 3D World](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/AGENT.2311.12871.v1.pdf)
+
+![](./20231126/fig.1.png)
 
 #### Authors
 Jiangyong Huang et. al.

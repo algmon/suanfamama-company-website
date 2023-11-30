@@ -83,7 +83,7 @@ const config = {
             position: 'left',
             items: [
               {
-                label: '微信聊天机器人',
+                label: '聊天机器人',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
@@ -138,11 +138,13 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar6',
               },
+              /*
               {
                 label: 'Nextjs',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar7',
               },
+              */
               {
                 label: 'Assistant API',
                 type: 'docSidebar',
@@ -161,6 +163,11 @@ const config = {
             sidebarId: 'researchSidebar1',
             position: 'left',
             label: '研究',           
+          },
+          {
+            to: '/docs/invest/',
+            label: '投资者关系',
+            position: 'right'
           },
           {
             to: '/docs/about/',
