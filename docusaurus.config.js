@@ -93,7 +93,7 @@ const config = {
                 sidebarId: 'productSidebar2',
               },
               {
-                label: 'GPTs解决方案',
+                label: 'GPTs',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar3',
               },
@@ -154,15 +154,21 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'serviceSidebar1',
+            sidebarId: 'solutionSidebar1',
             position: 'left',
-            label: '服务',           
-          },
+            label: '解决方案',           
+          },          
           {
             type: 'docSidebar',
             sidebarId: 'researchSidebar1',
             position: 'left',
             label: '研究',           
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'serviceSidebar1',
+            position: 'right',
+            label: '服务',           
           },
           {
             to: '/docs/invest/',
