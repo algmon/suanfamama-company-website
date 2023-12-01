@@ -216,7 +216,7 @@ const config = {
             title: '社群',
             items: [
               {
-                label: 'X & Twitter',
+                label: 'X',
                 href: 'https://twitter.com/algmon2024',
               },
             ],
