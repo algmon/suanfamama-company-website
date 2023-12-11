@@ -1,0 +1,90 @@
+{
+  "title": {
+    "message": "Algmon",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.垂类大模型晚报": {
+    "message": "LLM News",
+    "description": "Navbar item with label 垂类大模型晚报"
+  },
+  "item.label.论文解读": {
+    "message": "Papers",
+    "description": "Navbar item with label 论文解读"
+  },
+  "item.label.公司进展": {
+    "message": "Company Progress",
+    "description": "Navbar item with label 公司进展"
+  },
+  "item.label.产品": {
+    "message": "Product",
+    "description": "Navbar item with label 产品"
+  },
+  "item.label.技术": {
+    "message": "Technology",
+    "description": "Navbar item with label 技术"
+  },
+  "item.label.投资者关系": {
+    "message": "Investment",
+    "description": "Navbar item with label 投资者关系"
+  },
+  "item.label.公司简介": {
+    "message": "Company Profile",
+    "description": "Navbar item with label 公司简介"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.AI熊猫Rita": {
+    "message": "AI Rita",
+    "description": "Navbar item with label AI熊猫Rita"
+  },
+  "item.label.AI能力平台": {
+    "message": "AI Platform",
+    "description": "Navbar item with label AI能力平台"
+  },
+  "item.label.多模态垂类大模型": {
+    "message": "Multimodal LLM",
+    "description": "Navbar item with label 多模态垂类大模型"
+  },
+  "item.label.GPTs": {
+    "message": "GPTs",
+    "description": "Navbar item with label GPTs"
+  },
+  "item.label.教培空间": {
+    "message": "Education Space",
+    "description": "Navbar item with label 教培空间"
+  },
+  "item.label.服装买手店": {
+    "message": "Fashion Store",
+    "description": "Navbar item with label 服装买手店"
+  },
+  "item.label.提示词工程": {
+    "message": "Prompt Engineering",
+    "description": "Navbar item with label 提示词工程"
+  },
+  "item.label.大模型": {
+    "message": "LLM",
+    "description": "Navbar item with label 大模型"
+  },
+  "item.label.检索增强": {
+    "message": "RAG",
+    "description": "Navbar item with label 检索增强"
+  },
+  "item.label.LangChain": {
+    "message": "LangChain",
+    "description": "Navbar item with label LangChain"
+  },
+  "item.label.Chroma": {
+    "message": "Chroma",
+    "description": "Navbar item with label Chroma"
+  },
+  "item.label.Assistant API": {
+    "message": "Assistant API",
+    "description": "Navbar item with label Assistant API"
+  }
+}

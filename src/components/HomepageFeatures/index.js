@@ -8,25 +8,25 @@ const FeatureList = [
     Svg: require('@site/static/img/chip-intelligence-processor-svgrepo-com.svg').default,
     description: (
       <>
-        基础大模型 + 垂类知识库是企业智能的未来，微调是点睛之笔。
+        基础大模型 + 行业知识库是企业智能的未来，深耕所在行业是点睛。
       </>
     ),
   },
   {
-    title: '多端适配',
+    title: '时尚行业',
     Svg: require('@site/static/img/android-bionic-hand-svgrepo-com.svg').default,
     description: (
       <>
-        无论您是习惯使用微信，还是Twitter，还是钉钉。我们的智能聊天机器人能无缝渗入每个端。
+        以实体买手店作为链接客户与与服饰搭配的桥梁，为客户提供数千款精品服饰单品。
       </>
     ),
   },
   {
-    title: '强大技术团队',
+    title: '教培行业',
     Svg: require('@site/static/img/camera-control-device-svgrepo-com.svg').default,
     description: (
       <>
-        技术专家亲自响应客户需求，包括技术咨询，项目实施落地到交付全过程。
+        以空间作为链接学员、教师及家长的桥梁，为学员提供有益德育和学术指导。
       </>
     ),
   },

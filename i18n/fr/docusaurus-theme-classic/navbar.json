@@ -1,0 +1,90 @@
+{
+  "title": {
+    "message": "算法妈妈",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.垂类大模型晚报": {
+    "message": "垂类大模型晚报",
+    "description": "Navbar item with label 垂类大模型晚报"
+  },
+  "item.label.论文解读": {
+    "message": "论文解读",
+    "description": "Navbar item with label 论文解读"
+  },
+  "item.label.公司进展": {
+    "message": "公司进展",
+    "description": "Navbar item with label 公司进展"
+  },
+  "item.label.产品": {
+    "message": "产品",
+    "description": "Navbar item with label 产品"
+  },
+  "item.label.技术": {
+    "message": "技术",
+    "description": "Navbar item with label 技术"
+  },
+  "item.label.投资者关系": {
+    "message": "投资者关系",
+    "description": "Navbar item with label 投资者关系"
+  },
+  "item.label.公司简介": {
+    "message": "公司简介",
+    "description": "Navbar item with label 公司简介"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.AI熊猫Rita": {
+    "message": "AI熊猫Rita",
+    "description": "Navbar item with label AI熊猫Rita"
+  },
+  "item.label.AI能力平台": {
+    "message": "AI能力平台",
+    "description": "Navbar item with label AI能力平台"
+  },
+  "item.label.多模态垂类大模型": {
+    "message": "多模态垂类大模型",
+    "description": "Navbar item with label 多模态垂类大模型"
+  },
+  "item.label.GPTs": {
+    "message": "GPTs",
+    "description": "Navbar item with label GPTs"
+  },
+  "item.label.教培空间": {
+    "message": "教培空间",
+    "description": "Navbar item with label 教培空间"
+  },
+  "item.label.服装买手店": {
+    "message": "服装买手店",
+    "description": "Navbar item with label 服装买手店"
+  },
+  "item.label.提示词工程": {
+    "message": "提示词工程",
+    "description": "Navbar item with label 提示词工程"
+  },
+  "item.label.大模型": {
+    "message": "大模型",
+    "description": "Navbar item with label 大模型"
+  },
+  "item.label.检索增强": {
+    "message": "检索增强",
+    "description": "Navbar item with label 检索增强"
+  },
+  "item.label.LangChain": {
+    "message": "LangChain",
+    "description": "Navbar item with label LangChain"
+  },
+  "item.label.Chroma": {
+    "message": "Chroma",
+    "description": "Navbar item with label Chroma"
+  },
+  "item.label.Assistant API": {
+    "message": "Assistant API",
+    "description": "Navbar item with label Assistant API"
+  }
+}

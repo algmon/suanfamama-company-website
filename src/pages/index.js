@@ -17,8 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://chat.algmon.com/">
-            立即畅聊
+            to="./docs/about">
+            公司简介
           </Link>
         </div>
       </div>

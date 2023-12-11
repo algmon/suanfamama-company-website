@@ -1,0 +1,54 @@
+{
+  "link.title.行业调研": {
+    "message": "行业调研",
+    "description": "The title of the footer links column with title=行业调研 in the footer"
+  },
+  "link.title.赋能行业": {
+    "message": "赋能行业",
+    "description": "The title of the footer links column with title=赋能行业 in the footer"
+  },
+  "link.title.社交群组": {
+    "message": "社交群组",
+    "description": "The title of the footer links column with title=社交群组 in the footer"
+  },
+  "link.title.空间地址": {
+    "message": "空间地址",
+    "description": "The title of the footer links column with title=空间地址 in the footer"
+  },
+  "link.item.label.AI如何赋能时尚": {
+    "message": "AI如何赋能时尚",
+    "description": "The label of footer link with label=AI如何赋能时尚 linking to /docs/fashion/"
+  },
+  "link.item.label.AI如何赋能教育": {
+    "message": "AI如何赋能教育",
+    "description": "The label of footer link with label=AI如何赋能教育 linking to /docs/education/"
+  },
+  "link.item.label.垂类大模型 & 竞品": {
+    "message": "垂类大模型 & 竞品",
+    "description": "The label of footer link with label=垂类大模型 & 竞品 linking to /docs/list/"
+  },
+  "link.item.label.时尚": {
+    "message": "时尚",
+    "description": "The label of footer link with label=时尚 linking to https://fashion.algmon.com/"
+  },
+  "link.item.label.教培": {
+    "message": "教培",
+    "description": "The label of footer link with label=教培 linking to https://education.algmon.com/"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "The label of footer link with label=X linking to https://twitter.com/algmon2024"
+  },
+  "link.item.label.微信群": {
+    "message": "微信群",
+    "description": "The label of footer link with label=微信群 linking to https://www.algmon.com"
+  },
+  "link.item.label.广州市越秀区麦栏街20号3楼全层": {
+    "message": "广州市越秀区麦栏街20号3楼全层",
+    "description": "The label of footer link with label=广州市越秀区麦栏街20号3楼全层 linking to https://www.algmon.com"
+  },
+  "copyright": {
+    "message": "Copyright © 2020 - 2023 算法妈妈，用爱赋能。",
+    "description": "The footer copyright"
+  }
+}

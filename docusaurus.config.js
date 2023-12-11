@@ -1,13 +1,17 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+//const lightCodeTheme = require('prism-react-renderer/themes/github');
+//const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
+const Prism = require('prism-react-renderer');
+const lightCodeTheme = Prism.light; // or similar default export
+const darkCodeTheme = Prism.dark;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '算法妈妈',
-  tagline: '业界领先的垂类大模型技术提供商',
+  tagline: '用垂类大模型技术赋能时尚与教培行业',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -28,8 +32,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans', 'en', 'fr'],
   },
 
   presets: [
@@ -74,41 +78,71 @@ const config = {
         items: [
           {
             to: '/blog',
-            label: '新闻',
+            label: '垂类大模型晚报',
             position: 'left'
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'researchSidebar1',
+            position: 'left',
+            label: '论文解读',           
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'progressSidebar1',
+            position: 'left',
+            label: '公司进展',           
           },
           {
             type: 'dropdown',
             label: '产品',
-            position: 'left',
+            position: 'right',
             items: [
               {
-                label: '聊天机器人',
+                label: 'AI熊猫Rita',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
               {
-                label: '应用平台',
+                label: 'AI能力平台',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar2',
+              },
+              {
+                label: '多模态垂类大模型',
+                type: 'docSidebar',
+                sidebarId: 'productSidebar4',
               },
               {
                 label: 'GPTs',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar3',
               },
+              {
+                label: '教培空间',
+                href: 'https://education.algmon.com/',
+              },
+              {
+                label: '服装买手店',
+                href: 'https://fashion.algmon.com/',
+              },
             ],
           },
           {
             type: 'dropdown',
             label: '技术',
-            position: 'left',
+            position: 'right',
             items: [
+              {
+                label: '提示词工程',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar9',
+              },
               {
                 label: '大模型',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar1',
-              },              
+              },
               {
                 label: '检索增强',
                 type: 'docSidebar',
@@ -152,24 +186,22 @@ const config = {
               },
             ],
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'solutionSidebar1',
-            position: 'left',
-            label: '解决方案',           
-          },          
-          {
-            type: 'docSidebar',
-            sidebarId: 'researchSidebar1',
-            position: 'left',
-            label: '研究',           
-          },
+          /*
           {
             type: 'docSidebar',
             sidebarId: 'serviceSidebar1',
             position: 'right',
             label: '服务',           
           },
+          */
+          /*
+          {
+            type: 'docSidebar',
+            sidebarId: 'solutionSidebar1',
+            position: 'right',
+            label: '性能评估',           
+          },
+          */
           {
             to: '/docs/invest/',
             label: '投资者关系',
@@ -185,55 +217,69 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: '竞调',
+            title: '行业调研',
             items: [
               {
-                label: '初创公司 & 竞品',
+                label: 'AI如何赋能时尚',
+                to: '/docs/fashion/',
+              },
+              {
+                label: 'AI如何赋能教育',
+                to: '/docs/education/',
+              },
+              {
+                label: '垂类大模型 & 竞品',
                 to: '/docs/list/',
               },
             ],
           },
           {
-            title: '成功案例',
+            title: '赋能行业',
             items: [
               {
-                label: '时尚行业',
+                label: '时尚',
                 href: 'https://fashion.algmon.com/',
               },
               {
-                label: '教培行业',
+                label: '教培',
                 href: 'https://education.algmon.com/',
               },
             ],
           },
           {
-            title: '社群',
+            title: '社交群组',
             items: [
               {
                 label: 'X',
                 href: 'https://twitter.com/algmon2024',
               },
+              {
+                label: '微信群',
+                href: 'https://www.algmon.com', // TODO: Change to the correct one
+              },
             ],
           },
           {
-            title: '更多',
-            /*
+            title: '空间地址',
             items: [
               {
-                label: '联系地址：广州市越秀区麦栏街20号3楼',
-                to: '',
+                label: '广州市越秀区麦栏街20号3楼全层',
+                href: 'https://www.algmon.com', // TODO: Change to the correct one
               },
             ],
-            */
           },
         ],
-        copyright: `Copyright © 2020 - ${new Date().getFullYear()} 算法妈妈，用大爱自动构建。`,
+        copyright: `Copyright © 2020 - ${new Date().getFullYear()} 算法妈妈，用爱赋能。`,
       },
       prism: {
         theme: lightCodeTheme,

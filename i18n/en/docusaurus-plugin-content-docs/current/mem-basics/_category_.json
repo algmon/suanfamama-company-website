@@ -1,0 +1,8 @@
+{
+  "label": "memgpt",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "优化上下文长度以达到更好的信息检索效果"
+  }
+}
