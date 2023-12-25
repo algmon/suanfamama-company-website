@@ -1,5 +1,6 @@
 ---
-sidebar_position: 3
+sidebar_position: 15
+title: 12月10日论文解读
 ---
 
 # 2023-12-10MoE技术解读

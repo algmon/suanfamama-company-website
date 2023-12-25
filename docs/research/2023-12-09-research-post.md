@@ -1,8 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 14
+title: 12月09日论文解读
 ---
-
-# 2023-12-09论文解读
 
 ## Paper Title
 [LLM for Math](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/LLM.for.Math.2312.04556.pdf)

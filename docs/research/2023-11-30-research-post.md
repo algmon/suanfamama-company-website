@@ -1,8 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
+title: 11月30日论文解读
 ---
-
-# 2023-11-30论文解读
 
 ## Paper Title
 [Are Large Language Models Good Fact Checkers: A Preliminary Study](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/FACT.2311.17355v1.pdf)

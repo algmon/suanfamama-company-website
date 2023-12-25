@@ -33,7 +33,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans', 'en', 'fr'],
+    locales: ['zh-Hans', 'en'],
   },
 
   presets: [
@@ -78,25 +78,27 @@ const config = {
         items: [
           {
             to: '/blog',
-            label: '垂类大模型晚报',
+            label: '妈妈晚报',
             position: 'left'
           },
           {
             type: 'docSidebar',
             sidebarId: 'researchSidebar1',
             position: 'left',
-            label: '论文解读',           
+            label: '妈妈论文解读',           
           },
+          /*
           {
             type: 'docSidebar',
-            sidebarId: 'progressSidebar1',
+            sidebarId: 'openSidebar1',
             position: 'left',
-            label: '公司进展',           
+            label: '开源项目',           
           },
+          */
           {
             type: 'dropdown',
-            label: '产品',
-            position: 'right',
+            label: '妈妈产品',
+            position: 'left',
             items: [
               {
                 label: 'AI熊猫Rita',
@@ -114,7 +116,7 @@ const config = {
                 sidebarId: 'productSidebar4',
               },
               {
-                label: 'GPTs',
+                label: 'Algmon GPTs',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar3',
               },
@@ -130,23 +132,38 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: '技术',
-            position: 'right',
+            label: '妈妈技术',
+            position: 'left',
             items: [
               {
-                label: '提示词工程',
+                label: '提示词工程 (PROMPT)',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar9',
               },
               {
-                label: '大模型',
+                label: '大模型 (LLM)',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar1',
               },
               {
-                label: '检索增强',
+                label: '检索增强 (RAG)',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar2',
+              },
+              {
+                label: 'Assistant API',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar8',
+              },
+              {
+                label: 'Benchmark',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar10',
+              },
+              {
+                label: '原型验证（POC）',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar5',
               },
               /*
               {
@@ -154,37 +171,29 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar3',
               },
-              */
               {
                 label: 'LangChain',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar4',
               },
-              /*
-              {
-                label: '智能体',
-                type: 'docSidebar',
-                sidebarId: 'techSidebar5',
-              },
-              */
               {
                 label: 'Chroma',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar6',
               },
-              /*
               {
                 label: 'Nextjs',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar7',
               },
               */
-              {
-                label: 'Assistant API',
-                type: 'docSidebar',
-                sidebarId: 'techSidebar8',
-              },
             ],
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'progressSidebar1',
+            position: 'left',
+            label: '公司进展',           
           },
           /*
           {
@@ -213,7 +222,7 @@ const config = {
             position: 'right'
           },
           {
-            href: 'https://github.com/algmon',
+            href: 'https://github.com/algmon/company-website',
             label: 'GitHub',
             position: 'right',
           },
@@ -227,32 +236,66 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '行业调研',
+            title: 'AI行业调研',
             items: [
               {
-                label: 'AI如何赋能时尚',
-                to: '/docs/fashion/',
+                label: '0 - 中美大模型实力对比',
+                to: '/docs/ai/',
               },
               {
-                label: 'AI如何赋能教育',
-                to: '/docs/education/',
-              },
-              {
-                label: '垂类大模型 & 竞品',
+                label: '1 - 垂类大模型 & 竞品',
                 to: '/docs/list/',
+              },
+              {
+                label: '2 - 在心理学中使用大模型',
+                to: '/docs/education.3/',
               },
             ],
           },
           {
-            title: '赋能行业',
+            title: '教育行业调研',
+            items: [
+              /*
+              {
+                label: 'AI赋能时尚',
+                to: '/docs/fashion/',
+              },
+              */
+              {
+                label: '0 - AI赋能教育',
+                to: '/docs/education.0/',
+              },
+              {
+                label: '1 - 教师应与AI紧密为伍',
+                to: '/docs/education.1/',
+              },
+              /*
+              {
+                label: '2 - AI能书写论文',
+                to: '/docs/education.2/',
+              },
+              */
+            ],
+          },
+          {
+            title: '时尚行业调研',
             items: [
               {
-                label: '时尚',
+                label: '广州买手店排行',
+                to: '/docs/fashion/',
+              },
+            ],
+          },
+          {
+            title: '行业案例',
+            items: [
+              {
+                label: 'AI时尚买手店',
                 href: 'https://fashion.algmon.com/',
               },
               {
-                label: '教培',
-                href: 'https://education.algmon.com/',
+                label: 'AI教培空间',
+                to: '/docs/space',
               },
             ],
           },

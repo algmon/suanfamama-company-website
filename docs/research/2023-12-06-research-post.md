@@ -1,8 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 11
+title: 12月06日论文解读
 ---
-
-# 2023-12-06论文解读
 
 ## Paper Title
 [Expanding Small-Scale Datasets with Guided Imagination](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/DATASETS.2211.13976.pdf)

@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '垂类大模型',
+    title: 'LLM with RAG',
     Svg: require('@site/static/img/chip-intelligence-processor-svgrepo-com.svg').default,
     description: (
       <>
@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '时尚行业',
+    title: 'Fashion Industry',
     Svg: require('@site/static/img/android-bionic-hand-svgrepo-com.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '教培行业',
+    title: 'Education Industry',
     Svg: require('@site/static/img/camera-control-device-svgrepo-com.svg').default,
     description: (
       <>

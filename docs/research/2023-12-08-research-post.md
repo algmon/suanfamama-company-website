@@ -1,8 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 13
+title: 12月08日论文解读
 ---
-
-# 2023-12-08论文解读
 
 ## Paper Title
 [GPT4 Vision](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/GPTV.System.Card.pdf)

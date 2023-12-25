@@ -1,6 +1,6 @@
 ---
 slug: 20231111-weekly-report
-title: 11月第二周公司进展
+title: 11月第一周公司进展
 authors:
   name: Wei Jiang
   title: Founder
@@ -9,7 +9,7 @@ authors:
 tags: [算法妈妈]
 ---
 
-# 11月第二周公司进展
+# 11月第一周公司进展
 ## 具体进展
 
 1. 人工智能教培空间运行稳定，增员2人，并开始为学员提供冲刺和编程课程。

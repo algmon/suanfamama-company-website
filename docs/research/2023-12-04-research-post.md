@@ -1,8 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 9
+title: 12月04日论文解读
 ---
-
-# 2023-12-04论文解读
 
 ## Paper Title
 [Generative AI could revolutionize health care — but not if control is ceded to big tech](https://www.nature.com/articles/d41586-023-03803-y)

@@ -1,8 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
+title: 12月02日论文解读
 ---
-
-# 2023-12-02论文解读
 
 ## Paper Title
 [LANGUAGE MODEL AGENTS SUFFER FROM COMPOSITIONAL GENERALIZATION IN WEB AUTOMATION](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/TASKS.2311.18751v1.pdf)

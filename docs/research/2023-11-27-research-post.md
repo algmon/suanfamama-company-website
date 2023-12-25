@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
+title: 11月27日论文解读
 ---
-
-# 2023-11-27论文解读
 
 ## Paper Title
 [GAIA: A Benchmark for General AI Assistants](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/GAIA.2311.12983.v1.pdf)
