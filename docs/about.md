@@ -24,4 +24,3 @@ sidebar_position: 1
 
 ## 公司顾问
 1. Wei Huang
-2. Ling

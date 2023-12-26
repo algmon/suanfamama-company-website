@@ -37,4 +37,5 @@ sidebar_position: 0
 27. 2023-12-22 VideoPoet
 28. 2023-12-23 SoulChat
 29. 2023-12-24 TryOnDiffusion and Outfit Anyone
-30. [Paper Waiting List](./paper-waiting-list)
+30. 2023-12-25 Toward General-Purpose Robots via Foundational Models
+31. [Paper Waiting List](./paper-waiting-list)
