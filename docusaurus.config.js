@@ -190,19 +190,23 @@ const config = {
             ],
           },
           {
+            type: 'dropdown',
+            position: 'left',
+            label: '妈妈服务',
+            items: [
+              {
+                label: '简介',
+                type: 'docSidebar',
+                sidebarId: 'serviceSidebar1',
+              },
+            ],
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'progressSidebar1',
             position: 'left',
             label: '公司进展',           
           },
-          /*
-          {
-            type: 'docSidebar',
-            sidebarId: 'serviceSidebar1',
-            position: 'right',
-            label: '服务',           
-          },
-          */
           /*
           {
             type: 'docSidebar',
