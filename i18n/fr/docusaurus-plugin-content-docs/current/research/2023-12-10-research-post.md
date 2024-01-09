@@ -6,9 +6,6 @@ sidebar_position: 3
 
 ![](./20231210/fig.1.png)
 
-## Authors
-Sophia Yang, Ph.D.
-
 ## What is Mixture-of-Experts (MoE)?
 MoE is a neural network architecture design that integrates layers of experts/models within the Transformer block. As data flows through the MoE layers, each input token is dynamically routed to a subset of the experts for computation. This approach allows for more efficient compute with better results as each expert becomes specialized at particular tasks.
 

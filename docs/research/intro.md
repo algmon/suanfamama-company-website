@@ -3,9 +3,10 @@ sidebar_position: 0
 ---
 
 # 简介
-## 我们的核心关注点
-* 我们在这里精选垂类大模型以及agent相关顶会论文及文献，特别是对初创企业且有市场效益的研究。
-* 我们使用Algmon GPTs为我们总结论文核心重点。
+## 技术关注点
+* 垂类大模型及agents
+* 教培行业及时尚行业的AI应用
+* 我们使用[Algmon GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du)以总结论文核心关键
 
 ## 论文列表
 1. [2023-11-26 Agent: An Embodied Generalist Agent in 3D World](./2023-11-26-research-post)
@@ -22,7 +23,7 @@ sidebar_position: 0
 12. [2023-12-07 Gemini](./2023-12-07-research-post)
 13. [2023-12-08 GPT4-Vision](./2023-12-08-research-post)
 14. [2023-12-09 LLM for Math](./2023-12-09-research-post)
-15. [2023-12-10 Mixture of Experts](./2023-12-10-research-post)
+15. [Mixture of Experts 技术解读](./2023-12-10-research-post)
 16. [2023-12-11 Is ChatGPT Good at Search?](./2023-12-11-research-post)
 17. [2023-12-12 Papers in Emnlp 2023 Part1](./2023-12-12-research-post)
 18. [2023-12-13 Papers in Emnlp 2023 Part2](./2023-12-13-research-post)
@@ -36,6 +37,16 @@ sidebar_position: 0
 26. 2023-12-21 Are Emergent Abilities of Large Language Models a Mirage?
 27. 2023-12-22 VideoPoet
 28. 2023-12-23 SoulChat
-29. 2023-12-24 TryOnDiffusion and Outfit Anyone
+29. [Virtual Try On 技术解读](./2023-12-24-research-post)
 30. 2023-12-25 Toward General-Purpose Robots via Foundational Models
-31. [Paper Waiting List](./paper-waiting-list)
+31. 2023-12-26 PowerInfer: Fast Large Language Model Serving with a Comsumer-Grade GPU
+32. 2023-12-27 Foundation Models in Robotics: Applications, Challenges, and the future
+33. 2023-12-28 MARLIN: Masked Autoencoder for facial video Representation LearnINg
+34. 2023-12-29 StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation
+35. 2023-12-30 Segment Anything
+36. 2023-12-31 Stable Diffusion
+37. 2024-01-02 Adding Conditional Control to Text-to-Image Diffusion Models
+38. 2024-01-03 Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math
+39. 2024-01-04 Foundation Models in Robotics: Applications, Challenges, and the Future
+40. 2024-01-05 A Comprehensive Study of Knowledge Editing for Large Language Models
+41. [Paper Waiting List](./paper-waiting-list)

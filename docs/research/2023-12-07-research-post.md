@@ -3,8 +3,10 @@ sidebar_position: 12
 title: 12月07日论文解读
 ---
 
+![](./20231207/fig.2.png)
+
 ## Paper Title
-[GEMINI](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/GEMINI.technical.report.pdf)
+[GEMINI: A Family of Highly Capable Multimodal Models](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/GEMINI.technical.report.pdf)
 
 #### Authors
 Gemini Team
@@ -42,7 +44,6 @@ This report introduces a new family of multimodal models, Gemini, that exhibit r
 
 ![](./20231207/table.1.png)
 
-![](./20231207/fig.2.png)
 
 #### 3. Training Infrastructure
 

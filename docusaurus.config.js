@@ -156,9 +156,9 @@ const config = {
                 sidebarId: 'techSidebar8',
               },
               {
-                label: 'Benchmark',
+                label: '精准问答',
                 type: 'docSidebar',
-                sidebarId: 'techSidebar10',
+                sidebarId: 'techSidebar11',
               },
               {
                 label: '原型验证（POC）',
@@ -243,8 +243,8 @@ const config = {
             title: 'AI行业调研',
             items: [
               {
-                label: '0 - 中美大模型实力对比',
-                to: '/docs/ai/',
+                label: '0 - 2023 AI大事记',
+                to: '/docs/ai.timeline/',
               },
               {
                 label: '1 - 垂类大模型 & 竞品',
@@ -254,10 +254,14 @@ const config = {
                 label: '2 - 在心理学中使用大模型',
                 to: '/docs/education.3/',
               },
+              {
+                label: '3 - 2024 AI Tools',
+                to: '/docs/ai.tools/',
+              },
             ],
           },
           {
-            title: '教育行业调研',
+            title: '教培行业调研',
             items: [
               /*
               {
@@ -285,7 +289,7 @@ const config = {
             title: '时尚行业调研',
             items: [
               {
-                label: '广州买手店排行',
+                label: '0 - AI赋能时尚',
                 to: '/docs/fashion/',
               },
             ],
@@ -295,11 +299,11 @@ const config = {
             items: [
               {
                 label: 'AI时尚买手店',
-                href: 'https://fashion.algmon.com/',
+                href: '/docs/space.for.fashion',
               },
               {
                 label: 'AI教培空间',
-                to: '/docs/space',
+                to: '/docs/space.for.education',
               },
             ],
           },

@@ -6,33 +6,13 @@ sidebar_position: 99
 
 ## Queue
 
-1.  Segment Anything
-2.  Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning
-3.  Efficient Large Language Models: A Survey
-4.  Experiential Co-Learning of Software-Developing Agents
-5.  Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math
-6.  Direct Preference Optimization: Your Language Model is Secretly a Reward Model (NIPS 2023)
-7.  ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation (NIPS 2023)
-8.  DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models (NIPS 2023)
-9.  SGP-TOD: Building Task Bots Effortlessly via Schema-Guided LLM Prompting
-10. LLMaAA: Making Large Language Models as Active Annotators
-11. DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text
-12. Ethical Reasoning over Moral Alignment: A Case and Framework for In-Context Ethical Policies in LLMs
-13. Beyond Testers’ Biases: Guiding Model Testing with Knowledge Bases using LLMs
-14. A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing
-15. Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering
-16. Learning Interpretable Style Embeddings via Prompting LLMs
-17. Perceptual Structure in the absence of grounding: the impact of abstractedness and subjectivity in color language for LLMs
-18. Exploring the Sensitivity of LLMs’ Decision-Making Capabilities: Insights from Prompt Variations and Hyperparameters
-19. Using LLM for Improving Key Event Discovery: Temporal-Guided News Stream Clustering with Event Summaries
-20. ``You Are An Expert Linguistic Annotator’’: Limits of LLMs as Analyzers of Abstract Meaning Representation
-21. Guiding LLM to Fool Itself: Automatically Manipulating Machine Reading Comprehension Shortcut Triggers
-22. Ranking LLM-Generated Loop Invariants for Program Verification
-23. LLM-in-the-loop: Leveraging Large Language Model for Thematic Analysis
-24. LLM aided semi-supervision for efficient Extractive Dialog Summarization
-25. NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark
-26. LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases
-27. TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks
-28. PaRaDe: Passage Ranking using Demonstrations with LLMs
-29. [An In-depth Look at Gemini's Language Abilities](https://mp.weixin.qq.com/s/OJx6decccSiYWQhV1UIZ-Q)
-30. [OpenAI: Preparedness Framework Beta](https://mp.weixin.qq.com/s/RVl44_1osQ9Xy1Ey0i8yUw)
+1.  Accessing the impact of promption, persona, and chain of thought methods on chatgpt's arithmetic capabilities.
+    1.  我们系统测试了3种规定方法的效率，他们分别是策略提示，角色实施及思维链方法，实验表明并无显著提升ChatGPT的计算能力。
+2.  AURORA: Activating Chinese Chat Capability for Mistral-8x7b Sparse Mixtur of Experts through Instruction Tuning.
+    1.  为了评估Aurora的性能，我们使用了三个广泛认可的基准测试，证明执行指令微调的有效性。
+3.  Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey
+    1.  重点关注了基于 Transformer 的 LLM 模型体系结构在从预训练到推理的所有阶段中优化长上下文能力的进展。
+4.  [大语言模型的数学之路](https://mp.weixin.qq.com/s/BXQVY7rjlwjAkSxWg_dtcQ?poc_token=HG6UlmWjJZrOzOoYBgzcvr4U8cvjzDAq4eRf8z7N)
+6.  [LLM Augmented LLMs: Expanding Capabilities Through Composition](https://arxiv.org/pdf/2401.02412.pdf)
+7.  [看见这张图没有，你就照着画：谷歌图像生成AI掌握多模态指令](https://mp.weixin.qq.com/s/u8qjCihAFZVVnuP82b-MSQ)
+9.  LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
