@@ -1,9 +1,9 @@
 ---
 sidebar_position: 97
-title: MoE技术解读
+title: 多专家混合技术解读
 ---
 
-# MoE技术解读
+# 多专家混合技术解读
 
 ![](./20231210/1.arch.png)
 
@@ -76,8 +76,8 @@ MoE is a neural network architecture design that integrates layers of experts/mo
 - Helps scale the model efficiently with reduced training time. Better results at lower computing costs!
 
 ## References
-1. [mixture of experts](https://mistral.ai/news/mixtral-of-experts/)
-2. [Original Twitter](https://twitter.com/sophiamyang/status/1733505991600148892)
+1. [Mixture of Experts](https://mistral.ai/news/mixtral-of-experts/)
+2. [Related Twitter](https://twitter.com/sophiamyang/status/1733505991600148892)
 3. [The Sparsely-Gated Mixture-of-Experts Layer (2017)](https://arxiv.org/pdf/1701.06538.pdf)
 4. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding (2020)](https://arxiv.org/pdf/2006.16668.pdf)
 5. [MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (2022)](https://arxiv.org/abs/2211.15841)

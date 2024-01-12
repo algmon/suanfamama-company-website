@@ -21,10 +21,10 @@ sidebar_position: 2
 
 ## AI原优舍Lookbook
 ### 20240401
-![](./img/lookbook.20240401.png)
+![](./img/lookbook.20240101.png)
 
 ### 20240402
-![](./img/lookbook.20240402.png)
+![](./img/lookbook.20240102.png)
 
 ### 20240403
-![](./img/lookbook.20240404.png)
+![](./img/lookbook.20240104.png)

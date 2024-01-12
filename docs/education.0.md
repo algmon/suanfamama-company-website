@@ -3,16 +3,14 @@ sidebar_position: 0
 ---
 
 # AI赋能教育
+* Originally by [Andy Extance](https://twitter.com/andyextance?lang=en) and edited by [algmon](https://twitter.com/algmon2024)
+
 ## 关键洞察
 1. AI自习室是落地AI技术的有效形式；
 2. 线上可推出一系列直击教育痛点的AI工具，供学员使用。如[算法妈妈科学教培助手](https://chat.openai.com/g/g-aPshFOQqv-suan-fa-ma-ma-ke-xue-jiao-pei-zhu-shou)；
 3. Researchers, educators and companies are experimenting with ways to turn flawed but famous large language models into trustworthy, accurate ‘thought partners’ for learning.（研究人员、教育工作者和公司正在尝试将存在缺陷但著名的大型语言模型转变为可信赖、准确的“思维伙伴”来进行学习。）
 
-## ChatGPT has entered the classroom: how LLMs could transform education
-
-Key Idea: Researchers, educators and companies are experimenting with ways to turn flawed but famous large language models into trustworthy, accurate ‘thought partners’ for learning.
-
-Originally by [Andy Extance](https://twitter.com/andyextance?lang=en) and edited by [algmon](https://twitter.com/algmon2024)
+## How LLMs can transform education
 
 ![](./img/education00/edu.0.png)
 

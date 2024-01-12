@@ -1,6 +1,6 @@
 ---
 sidebar_position: 98
-title: Virtual Tryon技术解读
+title: 虚拟试衣技术解读
 ---
 
 ### 简介
