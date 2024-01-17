@@ -12,6 +12,7 @@ tags: [算法妈妈]
 # 算法妈妈布局2024
 ## 具体探索与前沿研究
 
-1. 探索基于实时音乐的视频自动生成技术，用于时尚行业如DJing；
-2. 使用Whisper及Chatgpt API赋能英语教学，具体落地应用为智能发音纠正；
-3. 探索使用Suno AI进行音乐生成的可能性，并应用在时尚行业如DJing；
+1. 基于实时气氛，动态及文字的音乐视频自动生成技术（用于时尚行业如DJ）；
+2. 基于Whisper及Chatgpt API的多语言智能发音纠正技术；
+3. 基于Suno AI，Midjourney及Runway的音乐视频生成技术；
+4. 基于Stable Stream Diffusion的实时绘画及生成技术；

@@ -16,3 +16,4 @@ sidebar_position: 99
 6.  [LLM Augmented LLMs: Expanding Capabilities Through Composition](https://arxiv.org/pdf/2401.02412.pdf)
 7.  [看见这张图没有，你就照着画：谷歌图像生成AI掌握多模态指令](https://mp.weixin.qq.com/s/u8qjCihAFZVVnuP82b-MSQ)
 9.  LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
+10. Task Weaver: A code first agent framework

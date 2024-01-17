@@ -85,7 +85,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'researchSidebar1',
             position: 'left',
-            label: '妈妈论文解读',           
+            label: '妈妈技术解读',           
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'progressSidebar1',
+            position: 'left',
+            label: '公司进展',           
           },
           /*
           {
@@ -101,10 +107,11 @@ const config = {
             position: 'left',
             items: [
               {
-                label: 'AI熊猫Rita',
+                label: 'AI教培小助手Rita',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
+              /*
               {
                 label: 'AI能力平台',
                 type: 'docSidebar',
@@ -120,12 +127,13 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'productSidebar3',
               },
+              */
               {
-                label: '教培空间',
+                label: 'AI自习室',
                 href: 'https://education.algmon.com/',
               },
               {
-                label: '服装买手店',
+                label: 'AI服装买手店',
                 href: 'https://fashion.algmon.com/',
               },
             ],
@@ -135,11 +143,13 @@ const config = {
             label: '妈妈技术',
             position: 'left',
             items: [
+              /*
               {
                 label: '提示词工程 (PROMPT)',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar9',
               },
+              */
               {
                 label: '大模型 (LLM)',
                 type: 'docSidebar',
@@ -150,6 +160,7 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar2',
               },
+              /*
               {
                 label: 'Assistant API',
                 type: 'docSidebar',
@@ -165,6 +176,7 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar5',
               },
+              */
               /*
               {
                 label: '记忆增强',
@@ -189,6 +201,7 @@ const config = {
               */
             ],
           },
+          /*
           {
             type: 'dropdown',
             position: 'left',
@@ -201,11 +214,18 @@ const config = {
               },
             ],
           },
+          */
           {
-            type: 'docSidebar',
-            sidebarId: 'progressSidebar1',
+            type: 'dropdown',
             position: 'left',
-            label: '公司进展',           
+            label: '妈妈解决方案',
+            items: [
+              {
+                label: '简介',
+                type: 'docSidebar',
+                sidebarId: 'solutionSidebar1',
+              },
+            ],
           },
           /*
           {
@@ -226,7 +246,7 @@ const config = {
             position: 'right'
           },
           {
-            href: 'https://github.com/algmon/company-website',
+            href: 'https://github.com/algmon',
             label: 'GitHub',
             position: 'right',
           },
@@ -243,21 +263,27 @@ const config = {
             title: 'AI行业调研',
             items: [
               {
-                label: '0 - 2023 AI大事记',
+                label: '0 - 2024 大模型行业趋势',
+                to: '/docs/ai.thread/',
+              },
+              {
+                label: '1 - 2023 人工智能大事记',
                 to: '/docs/ai.timeline/',
               },
               {
-                label: '1 - 垂类大模型 & 竞品',
+                label: '2 - 垂类大模型 & 竞品',
                 to: '/docs/list/',
               },
               {
-                label: '2 - 在心理学中使用大模型',
-                to: '/docs/education.3/',
-              },
-              {
-                label: '3 - 2024 AI Tools',
+                label: '3 - AI Tools',
                 to: '/docs/ai.tools/',
               },
+              /*
+              {
+                label: '3 - 在心理学中使用大模型',
+                to: '/docs/education.3/',
+              },
+              */
             ],
           },
           {
