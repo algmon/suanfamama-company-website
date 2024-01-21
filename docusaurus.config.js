@@ -201,7 +201,6 @@ const config = {
               */
             ],
           },
-          /*
           {
             type: 'dropdown',
             position: 'left',
@@ -214,7 +213,6 @@ const config = {
               },
             ],
           },
-          */
           {
             type: 'dropdown',
             position: 'left',
