@@ -23,7 +23,7 @@ sidebar_position: 0
 12. [2023-12-07 Gemini](./2023-12-07-research-post)
 13. [2023-12-08 GPT4-Vision](./2023-12-08-research-post)
 14. [2023-12-09 LLM for Math](./2023-12-09-research-post)
-15. [Mixture of Experts 技术解读](./2023-12-10-research-post)
+15. [Mixture of Experts 多专家混合技术解读](./2023-12-10-research-post)
 16. [2023-12-11 Is ChatGPT Good at Search?](./2023-12-11-research-post)
 17. [2023-12-12 Papers in Emnlp 2023 Part1](./2023-12-12-research-post)
 18. [2023-12-13 Papers in Emnlp 2023 Part2](./2023-12-13-research-post)
@@ -32,21 +32,27 @@ sidebar_position: 0
 21. [2023-12-16 Papers in Edu Part1](./2023-12-16-research-post)
 22. [2023-12-17 Papers in Edu Part2](./2023-12-17-research-post)
 23. [2023-12-18 Word2Vec](./2023-12-18-research-post)
-24. [2023-12-19 A Survey for RAG](./2023-12-19-research-post)
+24. [2023-12-19 RAG技术解读](./2023-12-19-research-post)
 25. [2023-12-20 Guidance for generative AI in education and research](./2023-12-20-research-post)
-26. 2023-12-21 Are Emergent Abilities of Large Language Models a Mirage?
-27. 2023-12-22 VideoPoet
-28. 2023-12-23 SoulChat
-29. [Virtual Try On 技术解读](./2023-12-24-research-post)
-30. 2023-12-25 Toward General-Purpose Robots via Foundational Models
-31. 2023-12-26 PowerInfer: Fast Large Language Model Serving with a Comsumer-Grade GPU
-32. 2023-12-27 Foundation Models in Robotics: Applications, Challenges, and the future
-33. 2023-12-28 MARLIN: Masked Autoencoder for facial video Representation LearnINg
-34. 2023-12-29 StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation
-35. 2023-12-30 Segment Anything
-36. 2023-12-31 Stable Diffusion
-37. 2024-01-02 Adding Conditional Control to Text-to-Image Diffusion Models
-38. 2024-01-03 Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math
-39. 2024-01-04 Foundation Models in Robotics: Applications, Challenges, and the Future
-40. 2024-01-05 A Comprehensive Study of Knowledge Editing for Large Language Models
-41. [Paper Waiting List](./paper-waiting-list)
+26. [2023-12-21 Are Emergent Abilities of Large Language Models a Mirage?](./2023-12-21-research-post)
+27. [2023-12-22 VideoPoet](./2023-12-22-research-post)
+28. [2023-12-23 SoulChat](./2023-12-23-research-post)
+29. [Virtual Try On 虚拟试衣技术解读](./2023-12-24-research-post)
+30. [2023-12-25 Toward General-Purpose Robots via Foundational Models](./2023-12-25-research-post)
+31. [2023-12-26 PowerInfer: Fast Large Language Model Serving with a Comsumer-Grade GPU](./2023-12-26-research-post)
+32. [2023-12-27 Foundation Models in Robotics: Applications, Challenges, and the future](./2023-12-27-research-post)
+33. [2023-12-28 MARLIN: Masked Autoencoder for facial video Representation LearnINg](./2023-12-28-research-post)
+34. [2023-12-29 StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation](./2023-11-29-research-post)
+35. [2023-12-30 Segment Anything](./2023-12-30-research-post)
+36. [2023-12-31 Stable Diffusion](./2023-12-31-research-post)
+37. [2024-01-02 Adding Conditional Control to Text-to-Image Diffusion Models](./2024-01-02-research-post)
+38. [2024-01-03 Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math](./2024-01-03-research-post)
+39. [2024-01-04 Foundation Models in Robotics: Applications, Challenges, and the Future](./2024-01-04-research-post)
+40. [2024-01-05 A Comprehensive Study of Knowledge Editing for Large Language Models](./2024-01-05-research-post)
+41. [2024-01-06 Mobile ALOHA](./2024-01-06-research-post)
+42. [2024-01-07 Efficient Large Language Models](./2024-01-07-research-post)
+43. [2024-01-08 LoRA](./2024-01-08-research-post)
+44. [2024-01-15 Efficient Generative LLM](./2024-01-15-research-post)
+45. [2024-01-16 张钹院士：大模型发展趋势](./2024-01-16-research-post)
+46. [2024-01-21 Agent AI](./2024-01-21-research-post)
+47. [Paper Waiting List](./paper-waiting-list)

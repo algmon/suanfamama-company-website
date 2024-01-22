@@ -213,6 +213,7 @@ const config = {
               },
             ],
           },
+          /*
           {
             type: 'dropdown',
             position: 'left',
@@ -225,6 +226,7 @@ const config = {
               },
             ],
           },
+          */
           /*
           {
             type: 'docSidebar',
@@ -338,17 +340,19 @@ const config = {
                 label: 'X',
                 href: 'https://twitter.com/algmon2024',
               },
+              /*
               {
                 label: '微信群',
                 href: 'https://www.algmon.com', // TODO: Change to the correct one
               },
+              */
             ],
           },
           {
             title: '空间地址',
             items: [
               {
-                label: '广州市越秀区麦栏街20号3楼全层',
+                label: '广州市越秀区麦栏街20号',
                 href: 'https://www.algmon.com', // TODO: Change to the correct one
               },
             ],
