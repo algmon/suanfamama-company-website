@@ -107,7 +107,7 @@ const config = {
             position: 'left',
             items: [
               {
-                label: 'AI教培小助手Rita',
+                label: 'AI通用智能助手Rita',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
@@ -324,11 +324,11 @@ const config = {
             title: '行业案例',
             items: [
               {
-                label: 'AI时尚买手店',
+                label: 'AI原优舍买手店',
                 href: '/docs/space.for.fashion',
               },
               {
-                label: 'AI教培空间',
+                label: 'AI自习室',
                 to: '/docs/space.for.education',
               },
             ],

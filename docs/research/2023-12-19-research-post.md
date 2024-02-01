@@ -1,6 +1,6 @@
 ---
 sidebar_position: 97
-title: RAG技术解读
+title: 技术解读 - RAG
 ---
 
 ### Research Paper

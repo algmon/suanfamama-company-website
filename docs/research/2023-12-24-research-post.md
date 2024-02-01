@@ -1,6 +1,6 @@
 ---
 sidebar_position: 98
-title: 虚拟试衣技术解读
+title: 技术解读 - 虚拟试衣
 ---
 
 ### 简介

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 97
-title: 多专家混合技术解读
+title: 技术解读 - 多专家混合
 ---
 
 # 多专家混合技术解读
