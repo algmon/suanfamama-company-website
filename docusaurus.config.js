@@ -318,6 +318,10 @@ const config = {
                 label: '0 - AI赋能时尚',
                 to: '/docs/fashion/',
               },
+              {
+                label: '1 - 时尚品牌',
+                to: '/docs/fashion.brands/',
+              },
             ],
           },
           {
