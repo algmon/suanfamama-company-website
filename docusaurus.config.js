@@ -111,12 +111,12 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
-              /*
               {
                 label: 'AI能力平台',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar2',
               },
+              /*
               {
                 label: '多模态垂类大模型',
                 type: 'docSidebar',
