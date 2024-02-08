@@ -334,6 +334,10 @@ const config = {
                 label: '4 - 高级别时尚品牌',
                 to: '/docs/fashion.brands.high/',
               },
+              {
+                label: '5 - AI Fashion Course',
+                to: '/docs/fashion.course/',
+              },             
             ],
           },
           {
