@@ -319,8 +319,20 @@ const config = {
                 to: '/docs/fashion/',
               },
               {
-                label: '1 - 时尚品牌',
+                label: '1 - 美感特征矩阵',
+                to: '/docs/fashion.brands.features/',
+              },
+              {
+                label: '2 - 入门级别时尚品牌',
                 to: '/docs/fashion.brands/',
+              },
+              {
+                label: '3 - 中级别时尚品牌',
+                to: '/docs/fashion.brands.mid/',
+              },
+              {
+                label: '4 - 高级别时尚品牌',
+                to: '/docs/fashion.brands.high/',
               },
             ],
           },
