@@ -8,6 +8,9 @@ title: 11月27日论文解读
 
 ![](./20231127/fig.1.png)
 
+### 算法妈妈商业和技术结合点
+* Benchmark is good when doing evaluation for machine
+
 #### Authors
 Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, and Thomas Scialom
 

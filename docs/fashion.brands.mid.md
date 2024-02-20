@@ -3,14 +3,18 @@ sidebar_position: 1
 ---
 
 # 中级别时尚品牌
-## 1.（品牌名）
+## 1. Nautica Japan
 
-### 官网
+## 2. A Bathing Ape
 
-### 品牌简介
+## 3. Beams
 
-### 品牌文化
+## 4. The North Face
 
-### 背后设计师
+## 5. New Balance
 
-### 参考资料
+## 6. Champion
+
+## 7. Levis
+
+## 8. Izzue

@@ -160,16 +160,16 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar2',
               },
+              {
+                label: '精准问答',
+                type: 'docSidebar',
+                sidebarId: 'techSidebar11',
+              },
               /*
               {
                 label: 'Assistant API',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar8',
-              },
-              {
-                label: '精准问答',
-                type: 'docSidebar',
-                sidebarId: 'techSidebar11',
               },
               {
                 label: '原型验证（POC）',
@@ -324,7 +324,7 @@ const config = {
               },
               {
                 label: '2 - 入门级别时尚品牌',
-                to: '/docs/fashion.brands/',
+                to: '/docs/fashion.brands.low/',
               },
               {
                 label: '3 - 中级别时尚品牌',
@@ -341,6 +341,15 @@ const config = {
             ],
           },
           {
+            title: '时装周',
+            items: [
+              {
+                label: '简介',
+                to: '/docs/fashion.milan.fall.2024',
+              },             
+            ],           
+          },
+          {
             title: '行业案例',
             items: [
               {
@@ -348,7 +357,7 @@ const config = {
                 href: '/docs/space.for.fashion',
               },
               {
-                label: 'AI自习室',
+                label: '人工智能自习室',
                 to: '/docs/space.for.education',
               },
             ],

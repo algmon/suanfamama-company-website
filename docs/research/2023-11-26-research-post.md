@@ -8,6 +8,9 @@ title: 11月26日论文解读
 
 ![](./20231126/fig.1.png)
 
+#### 算法妈妈商业和技术结合点
+* 智能体
+
 #### Authors
 Jiangyong Huang et. al.
 

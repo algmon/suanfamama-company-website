@@ -8,6 +8,9 @@ title: 11月28日论文解读
 
 ![](./20231128/fig.1.png)
 
+### 算法妈妈商业和技术结合点
+* Optimization is the key technique for business OP.
+
 #### Authors
 Bobby He & Thomas Hofmann
 
