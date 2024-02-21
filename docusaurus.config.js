@@ -263,19 +263,19 @@ const config = {
             title: 'AI行业调研',
             items: [
               {
-                label: '0 - 2024 大模型行业趋势',
+                label: '2024大模型行业趋势',
                 to: '/docs/ai.thread/',
               },
               {
-                label: '1 - 2023 人工智能大事记',
+                label: '2023人工智能大事记',
                 to: '/docs/ai.timeline/',
               },
               {
-                label: '2 - 垂类大模型 & 竞品',
+                label: '垂类大模型 & 竞品',
                 to: '/docs/list/',
               },
               {
-                label: '3 - AI Tools',
+                label: 'Useful AI Tools',
                 to: '/docs/ai.tools/',
               },
               /*
