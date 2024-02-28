@@ -36,13 +36,15 @@ sidebar_position: 1
     * Date: 20240215
     * 课程讲义 [AI时尚入门.第三课时.销售文案生成](https://docs.qq.com/doc/DTUxwa3RKamFUcmhI)
 ### Lecture 4
-    * Topic: Use AI Tools to design jewellry product image and model look
-    * 专题：使用AI工具设计并生成饰品产品照及模特照
-    * Date: 20240222
+    * Topic: Use AI Tools to design jewellry product image and model look (Part 1)
+    * 专题：使用AI工具设计并生成饰品产品照及模特照 - MJ
+    * Date: 20240217
     * 课程讲义 [AI时尚入门.第四课时.时尚饰品设计](https://docs.qq.com/doc/DTUJGS29PQ3NEWnZl)
 ### Lecture 5
-    * Topic:
-    * Date:
+    * Topic: Use AI Tools to design jewellry product image and model look (Part 2)
+    * 专题：使用AI工具设计并生成饰品产品照及模特照 - SD
+    * Date: 20240229
+    * 课程讲义 [AI时尚入门.第五课时.时尚饰品设计](https://docs.qq.com/doc/DTVpCY1FUV01KTHZS)
 ### Lecture 6
     * Topic: Fashion Foundations
     * Date:

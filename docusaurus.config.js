@@ -11,7 +11,7 @@ const darkCodeTheme = Prism.dark;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '算法妈妈',
-  tagline: '用垂类大模型技术赋能时尚与教培行业',
+  tagline: '用人工智能技术赋能时尚与教培行业',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -91,7 +91,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'progressSidebar1',
             position: 'left',
-            label: '公司进展',           
+            label: '妈妈进展',           
           },
           /*
           {
@@ -241,11 +241,6 @@ const config = {
             position: 'right'
           },
           {
-            to: '/docs/about/',
-            label: '公司简介',
-            position: 'right'
-          },
-          {
             href: 'https://github.com/algmon',
             label: 'GitHub',
             position: 'right',
@@ -260,22 +255,22 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'AI行业调研',
+            title: '人工智能行业',
             items: [
               {
-                label: '2024大模型行业趋势',
+                label: '行业发展趋势',
                 to: '/docs/ai.thread/',
               },
               {
-                label: '2023人工智能大事记',
+                label: '人工智能大事记',
                 to: '/docs/ai.timeline/',
               },
               {
-                label: '垂类大模型 & 竞品',
+                label: '竞品分析',
                 to: '/docs/list/',
               },
               {
-                label: 'Useful AI Tools',
+                label: '实用 AI Tools',
                 to: '/docs/ai.tools/',
               },
               /*
@@ -287,7 +282,7 @@ const config = {
             ],
           },
           {
-            title: '教培行业调研',
+            title: '教培行业',
             items: [
               /*
               {
@@ -296,12 +291,20 @@ const config = {
               },
               */
               {
-                label: '0 - AI赋能教育',
+                label: 'AI赋能教育',
                 to: '/docs/education.0/',
               },
               {
-                label: '1 - 教师应与AI紧密为伍',
+                label: '教师应与AI为伍',
                 to: '/docs/education.1/',
+              },
+              {
+                label: 'AI Math Course',
+                to: '/docs/math.course/',
+              },
+              {
+                label: 'AI English Course',
+                to: '/docs/eng.course/',
               },
               /*
               {
@@ -312,42 +315,37 @@ const config = {
             ],
           },
           {
-            title: '时尚行业调研',
+            title: '时尚行业',
             items: [
               {
-                label: '0 - AI赋能时尚',
+                label: 'AIGC赋能时尚',
                 to: '/docs/fashion/',
               },
               {
-                label: '1 - 美感特征矩阵',
+                label: '美感特征矩阵',
                 to: '/docs/fashion.brands.features/',
               },
               {
-                label: '2 - 入门级别时尚品牌',
+                label: '入门级别时尚品牌',
                 to: '/docs/fashion.brands.low/',
               },
               {
-                label: '3 - 中级别时尚品牌',
+                label: '中级别时尚品牌',
                 to: '/docs/fashion.brands.mid/',
               },
               {
-                label: '4 - 高级别时尚品牌',
+                label: '高级别时尚品牌',
                 to: '/docs/fashion.brands.high/',
               },
               {
-                label: '5 - AI Fashion Course',
+                label: 'AI Fashion Course',
                 to: '/docs/fashion.course/',
-              },             
-            ],
-          },
-          {
-            title: '时装周',
-            items: [
+              },
               {
-                label: '简介',
-                to: '/docs/fashion.milan.fall.2024',
-              },             
-            ],           
+                label: '时装周',
+                to: '/docs/fashion.week',
+              },
+            ],
           },
           {
             title: '行业案例',
@@ -362,6 +360,7 @@ const config = {
               },
             ],
           },
+          /*
           {
             title: '社交群组',
             items: [
@@ -369,25 +368,32 @@ const config = {
                 label: 'X',
                 href: 'https://twitter.com/algmon2024',
               },
-              /*
               {
                 label: '微信群',
                 href: 'https://www.algmon.com', // TODO: Change to the correct one
               },
-              */
             ],
           },
+          */
           {
-            title: '空间地址',
+            title: '公司',
             items: [
               {
                 label: '广州市越秀区麦栏街20号',
                 href: 'https://www.algmon.com', // TODO: Change to the correct one
               },
+              {
+                to: '/docs/about/',
+                label: '公司简介',
+              },
+              {
+                label: '核心团队',
+                to: '/docs/wei',
+              },
             ],
           },
         ],
-        copyright: `Copyright © 2020 - ${new Date().getFullYear()} 算法妈妈，用爱赋能。`,
+        copyright: `Copyright © 2020 - ${new Date().getFullYear()} 算法妈妈，用爱与技术赋能。`,
       },
       prism: {
         theme: lightCodeTheme,
