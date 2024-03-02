@@ -284,12 +284,10 @@ const config = {
           {
             title: '教培行业',
             items: [
-              /*
               {
-                label: 'AI赋能时尚',
-                to: '/docs/fashion/',
+                label: '行业发展趋势',
+                to: '/docs/ai.education.thread/',
               },
-              */
               {
                 label: 'AI赋能教育',
                 to: '/docs/education.0/',
@@ -317,6 +315,10 @@ const config = {
           {
             title: '时尚行业',
             items: [
+              {
+                label: '行业发展趋势',
+                to: '/docs/ai.fashion.thread/',
+              },
               {
                 label: 'AIGC赋能时尚',
                 to: '/docs/fashion/',
