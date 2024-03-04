@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # 买手店 Multibrand Boutique
 ## 关键洞察
-* mix-and-match是买手店的核心竞争力，AIGC着眼于提升此工作流的智能化；
-* 据麦肯锡2021年报告，疫情的暴发加快了消费者从线下往线上迁移的步伐，但这并不意味着线下的消亡。相反，物理和情感意义上体验和驻留变得尤为可贵；
-* 销售的工作之一就是和顾客变成朋友，分享共同爱好和见闻，只有当思想同频的时候，你才会真正明白顾客想买什么；
+* Mix-and-Match是现代买手店核心竞争力，我们使用AIGC赋能服装行业；
+* 疫情暴发加快了消费者从线下往线上迁移的步伐，但这并不意味着线下实体的消亡。相反，物理和情感意义上的体验和驻留将变得尤为可贵；
+* 设计师，品牌及买手三者共同勾勒现代商业核心轮廓；
 
 ## 时尚趋势现状
 ### Segment 1: Global Economy
@@ -32,9 +32,11 @@ sidebar_position: 2
 * 2020年后，中国买手店进入爆发期，据时堂统计，2019年第二季度全国共有3101家买手店，与第一季相比增长了51%，市场规模为72.1亿元。根据Ontimeshow的2022SS订货会数据，该季度成交总额估测超过40亿元，到场的买手顾客高达9603人。买手店的城市分布也从北京、上海等一线城市向二三线城市扩散。
 
 ## 买手店成功关键因素
-* 资深时尚买手作为门店主理人
-* 积极拥抱AIGC
-* 经重构和优化的线上线下销售体系
+* 初心与保持持久专注；
+* 资深时尚买手作为主理人，拥有旗帜鲜明的时尚风格；
+* 平衡全球化视野和本地时尚发展趋势；
+* 经重构和优化的线上线下一体化销售；
+* 积极拥抱AIGC；
 
 ## 全球典型买手店
 ### 北京 Common Place
@@ -85,8 +87,9 @@ sidebar_position: 2
 * https://www.instagram.com/openingceremony
 * https://www.openingceremony.com
 
-### 伦敦 Dover Street Market
-* 主理人：川久保玲及丈夫
+### Dover Street Market
+* 主理人：川久保玲
+* 品牌：CDG, BALENCIAGA, MIU MIU et. al.
 
 ### 巴黎 Colette
 * 主理人：
@@ -111,45 +114,136 @@ sidebar_position: 2
 1. 来自线上低价买家的竞争
 
 ## 成功案例分析
-### 1. 
+### 1. Dover Street Market
+#### 成功原因 1 - 全球化布局
+![](./img/dsm.beijing.new.space.png)
+* Beijing 门店
 
-### 2. 广州 AI原优舍买手店
-* AI原优舍是算法妈妈旗下时尚买手店品牌。我们的服饰风格主要是日本小众。我们相信，设计师、品牌、买手三者之间的共存共生关系，勾勒了时尚商贸的本质轮廓。
+![](./img/dsm.ginza.new.space.png)
+* Ginza 门店
 
-#### 线下
-* 我们把整个空间分为3部分，供大家进行选购。
+![](./img/dsm.london.new.space.png)
+* London 门店
 
-![](./img/b.png)
-* A区：日本小众男装系列
+![](./img/dsm.newyork.new.space.png)
+* New York 门店
 
-![](./img/c.png)
-* B区：日本小众女装系列
+![](./img/dsm.singapore.new.space.png)
+* Singapore 门店
 
-![](./img/d.png)
-* C区：人工智能设计系列
+#### 成功原因 2 - 新媒体线上线下统一运营
+##### Ins
+![](./img/dsm.beijing.ins.account.png)
+* Beijing
 
-#### 线上
-#### 20240101
-![](./img/lookbook.20240101.png)
+![](./img/dsm.ginza.ins.account.png)
+* Ginza
 
-#### 20240102
-![](./img/lookbook.20240102.png)
+![](./img/dsm.singapore.ins.account.png)
+* Singapore
 
-#### 20240104
-![](./img/lookbook.20240104.png)
+![](./img/dsm.london.ins.account.png)
+* London
 
-## 时尚科技
-### 1. [Raspberry](https://www.useraspberry.com/)
-* Category: Fashion Design Tool
-* Feature: Similar to MJ and SD. The outputs are much more readily manufacturable, appealing and just things that we can start selling right away.
+##### Latest
+![](./img/dsm.beijing.ins.latest.png)
+* Beijing
 
-### 2. [虚拟试衣](https://www.tryon.algmon.com/)
-* Category: Fashion Mix-and-Match Tool
-* Feature: 让客户获得更真实线上穿衣体验。
+![](./img/dsm.ginza.ins.latest.png)
+* Ginza
 
-### 3. [看款工具](https://www.lookbook.algmon.com/)
-* Category: Fashion Supply Chain & Sales 
-* Feature: 帮助B端和C端客户快速看款。
+![](./img/dsm.singapore.ins.latest.png)
+* Singapore
+
+![](./img/dsm.london.ins.latest.png)
+* London
+
+#### 成功原因 3 - 对时尚行业的专家级理解
+![](./img/dsm.refresh.bar.png)
+* Refresh bar for new products & service release SS24
+
+#### 成功原因 4 - 广泛且专业的媒体曝光
+* [FEBRUARY 23, 2024 EXCLUSIVE: Róisín Pierce Joins Dover Street Market Paris’ Brand Development Roster](https://wwd.com/fashion-news/fashion-features/dover-street-market-paris-roisin-pierce-1236206223/)
+* [AUGUST 24, 2023 Carla Sozzani Tapped for Dover Street Market’s Imminent Paris Opening: Sources](https://wwd.com/fashion-news/fashion-scoops/carla-sozzani-dover-street-market-paris-1235773324/)
+* [NOVEMBER 30, 2023 EXCLUSIVE: Dover Street Market Teams With Felix Art Fair in L.A. for 2024 Edition, Opening Feb. 28](https://wwd.com/eye/lifestyle/dover-street-market-felix-art-fair-1235964816/)
+* [DECEMBER 14, 2023 Suzy Menkes Celebrates Big 8-0 at Dover Street Market London](https://wwd.com/fashion-news/fashion-scoops/suzy-menkes-celebrates-big-8-0-dover-street-market-london-1236076276/)
+* [SEPTEMBER 13, 2023 EXCLUSIVE: Zomer Is Dover Street Market Paris’ Latest Find](https://wwd.com/fashion-news/fashion-features/zomer-joins-dover-street-market-paris-fashion-week-showroom-1235803560/)
+* [JANUARY 25, 2024 Dover Street Market Fetes Lunar New Year With Shushu/Tong and Bao](https://wwd.com/business-news/retail/dover-street-market-luna-new-year-shushu-tong-bao-1236150998/)
+* [MARCH 3, 2021 EXCLUSIVE: Dover Street Market to Mix Culture, Community and Commerce in Paris](https://wwd.com/fashion-news/designer-luxury/dover-street-market-opening-paris-1234749172/)
+
+### 2. Anchoret
+#### 成功原因 1 - 
+
+#### 成功原因 2 - 
+
+#### 成功原因 3 - 
+
+#### 成功原因 4 - 
+
+#### 媒体曝光
+* [Best Fashion Boutiques in China](https://wwd.com/business-news/retail/7-best-fashion-boutiques-in-china-1235388969/)
+* [China’s Concept Store Boom](https://wwd.com/business-news/retail/china-concept-store-boom-1235782645/)
+
+## 我们在路上
+* 目前，AI原优舍买手店是
+
+## 时尚科技 - AIGC赋能点
+### 1. 时尚设计如服饰，饰品等
+* 常用工具
+  * [Midjourney](https://www.midjourney.com/home)
+  * [Stable Diffusion](https://stability.ai/)
+  * [Raspberry](https://www.useraspberry.com/)
+  * 妈妈设计
+  * Feature: Similar to MJ and SD. The outputs are much more readily manufacturable, appealing and just things that we can start selling right away.
+* 核心技术
+  ![](./img/retrieval.augmented.diffusion.models.png)
+  * Diffusion Models
+* 效果展示
+![](./img/sample.ai.design.earring.png)
+* ai design earring
+* designer: AI原优舍
+![](./img/sample.ai.design.ring.png)
+* ai design ring
+* designer: AI原优舍
+![](./img/sample.ai.design.clothes.png)
+* ai design clothes
+* designer: paatiff
+
+### 2. 虚拟试衣，虚拟试饰品等
+* 常用工具
+  * [OOTDiffusion](https://github.com/weijiang2023/OOTDiffusion)
+  * [Google Virtual Tryon](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
+  * [妈妈试衣](https://www.tryon.algmon.com/)
+* 核心技术
+  ![](./img/tryon.workflow.png)
+  * Mix-and-Match
+* 效果展示
+![](./img/sample.lookbook.men.png)
+* AI Gen Look for men
+![](./img/sample.lookbook.women.png)
+* AI Gen Look for women
+![](./img/sample.lookbook.both.png)
+* AI Gen Look for both
+
+### 3. 智能看款
+* 常用工具
+  * [WWD Runway](https://wwd.com/runway/)
+  * [Vouge Runway](https://www.vogue.com/fashion-shows)
+  * [妈妈看款](https://www.lookbook.algmon.com/)
+* 核心技术
+  * 面料，廓形，目标客户等综合认知
+* 效果展示
+
+### 4. 智能AI时尚买手
+* 常用工具
+  * 妈妈时尚买手
+* 核心技术
+* 效果展示
+
+## 感恩阅读 & 致谢
+* 首先，非常感恩您的阅读。
+* 作为广州一名时尚买手，我深感社会责任之重，也同时深感时尚科技给社会和经济带来的变革性力量。我们将继续拥抱AIGC，以赋能服装行业为己任和奋斗目标。
+* 我是张优玲，业界都称我为小玲买手。
 
 ## 参考资料
 1. [WWD 深度报道｜中国的买手店升级换代了，买手店销售呢？](https://mp.weixin.qq.com/s/EmcQ8vq3noKWRTLrYY81Nw)
@@ -192,6 +286,9 @@ sidebar_position: 2
 38. [BoF: The Year Ahead: How Gen AI Is Reshaping Fashion’s Creativity](https://www.businessoffashion.com/articles/technology/the-state-of-fashion-2024-report-generative-ai-artificial-intelligence-technology-creativity/)
 39. [BoF: How Fashion Schools Are Tackling AI’s Blind Spots](https://www.businessoffashion.com/articles/technology/fashion-schools-ai-bias-diversity/)
 40. [BoF: Google Is Rolling Out New Generative-AI Shopping Features for the Holidays](https://www.businessoffashion.com/articles/technology/google-is-rolling-out-new-generative-ai-shopping-features-for-the-holidays/)
+41. [Dover Street Market](https://www.doverstreetmarket.com/)
+42. [Dover Street Market Beijing Ins](https://www.instagram.com/doverstreetmarketbeijing)
+43. [China’s Cool Young Designers Tap New Routes to Market](https://www.businessoffashion.com/briefings/china/chinese-emerging-brands-new-path/)
 
 ## 附：核心买手店信息列表
 1. Angle
