@@ -4,8 +4,8 @@ title: 时装周
 ---
 
 ## 简介
-* 看秀选品并对品牌、产品进行综合评估是时尚买手的核心工作。
-* 经AI原优舍买手的精选款式可看[这里](https://lookbook.algmon.com/)
+* 看秀选品并对当季品牌及产品进行综合评估是时尚买手的核心工作。
+* 经AI原优舍时尚买手精选的款式可[在此看到](https://lookbook.algmon.com/)
 
 ## Paris Fashion Week 2024
 * Feb 26 - March 5
@@ -15,7 +15,7 @@ title: 时装周
 | -------- | -------- | -------- | -------- | -------- |
 | IFM Master of Arts | - | - | 6.00 | 推荐（创新度高 但实用性不强）|
 | Marie Adam-Leenaerdt | 167 | 39 | 4.28 | 不推荐（过于浮夸）|
-| Vaquera | 64 | 32 | 2 | 不推荐（过于高调 刷存在感）|
+| Vaquera | 64 | 32 | 2.00 | 不推荐（过于高调 刷存在感）|
 | CFCL | 207 | 39 | 5.31| 不推荐（大同小异 主题不明显）|
 
 ### Day 2 (Tue 27th Feb)
@@ -26,10 +26,10 @@ title: 时装周
 | Weinsanto | 90 | 28 | 3.21 | 不推荐（概念超前 落地感不强）|
 | Mame Kurogouchi | 195 | 35 | 5.57 | 不推荐（往低调设计 可多考虑针织线衫）|
 | Christian Dior | 359 | 72 | 4.99 | 不推荐（可以考虑往时尚通勤方向发力）|
-| Germanier |||||
-| Anrealage |||||
-| Ester Manas |||||
-| Saint Laurent |||||
+| Germanier | 27 | 27 | 1.00 | 不推荐（概念太超前 无法评估）|
+| Anrealage | 54 | 9 | 6.00 | 不推荐（设计过于抽象）|
+| Ester Manas | 109 | 36 | 3.02 |不推荐（本季不适合中国市场）|
+| Saint Laurent | 339 | 48 | 7.06 | 推荐（性感且有质感）|
 
 ### Day 3 (Wed 28th Feb)
 | 品牌 & 设计师 | 总得分 | 总Look数 | 平均分值 | 是否推荐 & （原因） |
@@ -53,7 +53,7 @@ title: 时装周
 | Chloé |||||
 | Givenchy |||||
 | Rabanne |||||
-| Uma Wang |||||
+| Uma Wang | 247 | 33 | 7.48 | 推荐（通过mix & match以提升质感和廓形）|
 | Schiaparelli |||||
 | Isabel Marant |||||
 
@@ -62,11 +62,11 @@ title: 时装周
 | -------- | -------- | -------- | -------- | -------- |
 | Léonard Paris |||||
 | Loewe |||||
-| Issey Miyake |||||
+| Issey Miyake | 278 | 39 | 7.13 | 推荐（简单 舒服）|
 | Giambattista Valli |||||
 | Nina Ricci |||||
 | Vetements |||||
-| Yohji Yamamoto |||||
+| Yohji Yamamoto | 235 | 34 | 6.91 | 推荐（概念感强 一贯的我行我素）|
 | Victoria Beckham |||||
 
 ### Day 6 (Sat 2nd Mar)

@@ -320,13 +320,14 @@ const config = {
                 to: '/docs/ai.fashion.thread/',
               },
               {
-                label: 'AIGC赋能时尚',
+                label: '时尚科技',
                 to: '/docs/fashion/',
               },
               {
                 label: '美感特征矩阵',
                 to: '/docs/fashion.brands.features/',
               },
+              /*
               {
                 label: '入门级别时尚品牌',
                 to: '/docs/fashion.brands.low/',
@@ -339,12 +340,13 @@ const config = {
                 label: '高级别时尚品牌',
                 to: '/docs/fashion.brands.high/',
               },
+              */
               {
                 label: 'AI Fashion Course',
                 to: '/docs/fashion.course/',
               },
               {
-                label: '时装周',
+                label: '四大时装周',
                 to: '/docs/fashion.week',
               },
             ],

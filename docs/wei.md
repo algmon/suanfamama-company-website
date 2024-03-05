@@ -9,7 +9,7 @@ title: 核心团队
 ### 简介
 * 江纬，他是一个土生土长的广州人，粤港澳AI智库特聘专家，互联网连续创业者，专注于大数据与人工智能领域。他的教育背景丰富，本科计算机毕业于广东工业大学，硕士计算机毕业于南加州大学及在纽约大学攻读博士。他曾服务于Google，软通等知名企业，积累了丰富的业界经验。他目前是算法妈妈创始人，使命是使用人工智能赋能教培与时尚行业，目前负责公司产品和技术团队；
 
-### 2023年后媒体曝光
+### 媒体曝光（2023年后）
 * 2024年网讯公司年会主题分享，分享题目《大模型发展趋势与应用》
 * 2023年《米雪爱科技》主题分享，分享题目《AI+教育会让人更聪明还是更懒，如何实现“多向奔赴”？》
 * 2023年云商会《数说AI》第二期主题分享，分享题目《AI赋能服饰行业中的困惑与破局》
@@ -36,7 +36,7 @@ title: 核心团队
 * [Algmon Company Website](https://github.com/algmon/algmon-company-website)
 * [Algmon Chatbot](https://github.com/algmon/algmon-llm-wechat-template)
 * [Algmon KB](https://github.com/weijiang2023/algmon-kb)
-* [Algmon Tryon Core Tech](https://github.com/weijiang2023/OOTDiffusion)
+* [Algmon Virtual Tryon Service](https://github.com/weijiang2023/OOTDiffusion)
 
 ### 研究项目
 * 

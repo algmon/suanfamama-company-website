@@ -2,16 +2,23 @@
 sidebar_position: 1
 ---
 
-# AIGC赋能时尚
-## Case Study
+# 时尚科技
+## AIGC赋能点
+* 1. 时尚设计如服饰，饰品等
+* 2. 虚拟试衣，虚拟试饰品等
+* 3. 智能看款
+* 4. 智能AI时尚买手
+
+## 案例 1
+### G-Star使用MJ等工具以捕获设计灵感
 ![](./img/fashion.tech.0.png)
 * 上图：G-Star，牛仔衫从创意到落地
 * It's important to note that AI is a tool. It's the human designer who ultimately makes the creative decisions.
 
 ### Intro
-G-Star said: "We love to innovate and bring new tools within the design process and integrating AI into it can provide benefits such as increased efficiency and accuracy. It can also help reduce waste in the production process by immediately visualizing a raw idea into a well-made outcome. But it's important to note that AI is a tool. It's the human designer who ultimately makes the creative decisions."
+G-Star loves to innovate and bring new tools within the design process and integrating AI into it can provide benefits such as increased efficiency and accuracy. It can also help reduce waste in the production process by immediately visualizing a raw idea into a well-made outcome. But it's important to note that AI is a tool. It's the human designer who ultimately makes the creative decisions.
 
-### AI Powered Designing Process
+### AI Powered End-to-End Process
 ![](./img/../design.process.scene.1.png)
 * Step 1: Designers prompt the AI tools with thoughts.
 
@@ -24,13 +31,14 @@ G-Star said: "We love to innovate and bring new tools within the design process 
 ![](./img/../design.process.scene.4.png)
 * Step 4: Model models the first AI garment at the studio
 
-![](./img/../design.process.scene.5.png)
-* Step 5: the Company publish the AI lookbook
-
-### Main AI Tools
+### Main AI Tools Used
 * [Stable Diffusion](https://stability.ai/)
 * [Midjounery](https://www.midjourney.com/)
-* PhotoRoom
 
 ### References
 * [Fashion brands must catch up to AI, not halt progress](https://fashionunited.uk/news/fashion/fashion-brands-must-catch-up-to-ai-not-halt-progress/2023040468807)
+
+## 案例 2
+### 算法妈妈使用虚拟试衣发布Lookbook
+![](./img/../design.process.scene.5.png)
+* Lookbook on 20240101 published by AI原优舍

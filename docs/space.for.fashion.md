@@ -184,9 +184,6 @@ sidebar_position: 2
 * [Best Fashion Boutiques in China](https://wwd.com/business-news/retail/7-best-fashion-boutiques-in-china-1235388969/)
 * [China’s Concept Store Boom](https://wwd.com/business-news/retail/china-concept-store-boom-1235782645/)
 
-## 我们在路上
-* 目前，AI原优舍买手店是
-
 ## 时尚科技 - AIGC赋能点
 ### 1. 时尚设计如服饰，饰品等
 * 常用工具
