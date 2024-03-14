@@ -349,6 +349,10 @@ const config = {
                 label: '四大时装周',
                 to: '/docs/fashion.week',
               },
+              {
+                label: 'SS24 新中式',
+                to: '/docs/fashion.collection.SS24',
+              },
             ],
           },
           {

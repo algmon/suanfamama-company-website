@@ -1,5 +1,5 @@
 ---
-sidebar_position: 98
+sidebar_position: 99
 title: 技术解读 - 虚拟试衣
 ---
 

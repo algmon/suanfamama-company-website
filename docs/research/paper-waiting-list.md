@@ -6,9 +6,6 @@ sidebar_position: 99
 
 ## Queue
 
-1.  Scalable Diffusion Models with Transformers by W. Peebles & S. Xie
-2.  [大语言模型的数学之路](https://mp.weixin.qq.com/s/BXQVY7rjlwjAkSxWg_dtcQ?poc_token=HG6UlmWjJZrOzOoYBgzcvr4U8cvjzDAq4eRf8z7N)
-3.  [LLM Augmented LLMs: Expanding Capabilities Through Composition](https://arxiv.org/pdf/2401.02412.pdf)
-4.  [看见这张图没有，你就照着画：谷歌图像生成AI掌握多模态指令](https://mp.weixin.qq.com/s/u8qjCihAFZVVnuP82b-MSQ)
-5.  LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
-6.  Task Weaver: A code first agent framework
+1.  [Stable Diffusion 3 Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
+2.  Scalable Diffusion Models with Transformers by W. Peebles & S. Xie
+3.  Task Weaver: A code first agent framework

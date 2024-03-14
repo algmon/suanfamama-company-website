@@ -5,20 +5,47 @@ sidebar_position: 1
 # 人工智能行业发展趋势
 
 ## 第一部分：发展趋势
-### 趋势1: 多模态 multimodal
+### 趋势1：端小模型与云大模型
+![](./img/galaxy.s24.png)
+* 端云结合
+
+### 趋势2：逼真视频生成
+![](./img/sora.png)
+* [Intro: Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+* [Sora Samples](https://www.youtube.com/watch?v=HK6y8DAPN_0)
+
+### 趋势3：有灵魂具身机器人
+![](./img/aloha.png)
+* [Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io/)
+
+### 趋势4：多模态
 ![](https://res.cloudinary.com/djba6ta1n/image/upload/v1708589440/algmon/algmon-company-website/talk/wei/1.multimodal)
+* multimodal
+* Case 1: [Claude 3 family](https://www.anthropic.com/news/claude-3-family)
 
-### 趋势2: 垂类 RAG
+### 趋势5：RAG
 ![](https://res.cloudinary.com/djba6ta1n/image/upload/v1708589440/algmon/algmon-company-website/talk/wei/2.rag)
+* [OpenAI Dev Day: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
+* [RAG 技术解读](https://www.algmon.com/docs/research/2023-12-19-research-post)
 
-### 趋势3: 多端与平台 Edge & Platform
+### 趋势6：多端与平台
 ![](https://res.cloudinary.com/djba6ta1n/image/upload/v1708589440/algmon/algmon-company-website/talk/wei/3.platform.and.edges)
+* Edge & Platform
+* 平台例子：[LinkAI平台 技术解读](https://docs.link-ai.tech/platform)
+* 微信端例子：[算法妈妈通用智能助手Rita 产品介绍](https://www.algmon.com/docs/chatbot/intro)
 
-### 趋势4: 赋能传统行业 Education & Fashion Industry
+### 趋势7：AIGC赋能传统行业
 ![](https://res.cloudinary.com/djba6ta1n/image/upload/v1708589440/algmon/algmon-company-website/talk/wei/4.aipowered)
+* Education & Fashion Industry
+* 信息安全行业: [360安全大模型简介](https://ai.360.com/)
+* 教培与时尚行业: [算法妈妈公司简介](https://www.algmon.com/docs/about/)
 
-### 趋势5: 闭源与开源之争 Close & Open Source
+### 趋势8：闭源与开源共发展
 ![](https://res.cloudinary.com/djba6ta1n/image/upload/v1708589440/algmon/algmon-company-website/talk/wei/5.transformer)
+* Close & Open Source
+* decoder only is popular
+* Close Source Example: [技术解读 Gemini](https://www.algmon.com/docs/research/2023-12-07-research-post)
+* Open Source Example: [技术解读 MoE](https://www.algmon.com/docs/research/2023-12-10-research-post)
 
 ## 第二部分：赋能教培行业应用
 ![](https://res.cloudinary.com/djba6ta1n/image/upload/v1708589440/algmon/algmon-company-website/talk/wei/6.selfstudyroom)

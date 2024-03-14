@@ -1,6 +1,6 @@
 ---
-sidebar_position: 12
-title: 12月07日论文解读
+sidebar_position: 99
+title: 技术解读 - Gemini
 ---
 
 ![](./20231207/fig.2.png)

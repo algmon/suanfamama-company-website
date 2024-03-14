@@ -51,8 +51,10 @@ sidebar_position: 1
     * 课程讲义 [AI时尚入门.第五课时.时尚饰品设计 via SD](https://docs.qq.com/doc/DTVpCY1FUV01KTHZS)
 
 ### Lecture 6
-    * Topic: Fashion Foundations
-    * Date:
+    * Topic：ComfyUI workflow for jewellry design - Part 1 the basic
+    * 专题：使用ComfyUI基础工作流进行服饰设计
+    * Date：20240309
+    * 课程讲义 [AI时尚入门.第六课时.时尚饰品设计 via 工作流](https://docs.qq.com/doc/DTXJPRHlOZ2VwdXJV)
 
 ### Lecture 7
     * Topic: AI Foundations
