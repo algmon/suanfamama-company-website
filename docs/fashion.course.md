@@ -57,12 +57,17 @@ sidebar_position: 1
     * 课程讲义 [AI时尚入门.第六课时.时尚饰品设计 via 工作流](https://docs.qq.com/doc/DTXJPRHlOZ2VwdXJV)
 
 ### Lecture 7
-    * Topic: AI Foundations
-    * Date:
+    * Topic: AI & Fashion Industry Trends
+    * 专题: 人工智能 & 时尚行业 发展趋势
+    * Date: 20240314
+    * 分享讲义 1: [人工智能发展趋势](https://www.algmon.com/docs/ai.thread/)
+    * 分享讲义 2: [时尚行业发展趋势](https://www.algmon.com/docs/ai.fashion.thread/)
 
 ### Lecture 8
-    * Topic: Painpoints & Customer Needs
-    * Date:
+    * Topic: ComfyUI workflow for jewellry design - Part 2 the advance
+    * 专题：设计属于自己的ComfyUI工作流以进行服饰设计
+    * Date：
+    * 课程讲义
 
 ### Lecture 9
     * Topic: Traditional & Improved Workflows

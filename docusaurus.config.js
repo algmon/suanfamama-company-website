@@ -259,7 +259,7 @@ const config = {
             items: [
               {
                 label: '行业发展趋势',
-                to: '/docs/ai.thread/',
+                to: '/docs/ai.trends/',
               },
               {
                 label: '人工智能大事记',
@@ -286,7 +286,7 @@ const config = {
             items: [
               {
                 label: '行业发展趋势',
-                to: '/docs/ai.education.thread/',
+                to: '/docs/ai.education.trends/',
               },
               {
                 label: 'AI赋能教育',
@@ -296,6 +296,7 @@ const config = {
                 label: '教师应与AI为伍',
                 to: '/docs/education.1/',
               },
+              /*
               {
                 label: 'AI Math Course',
                 to: '/docs/math.course/',
@@ -304,7 +305,6 @@ const config = {
                 label: 'AI English Course',
                 to: '/docs/eng.course/',
               },
-              /*
               {
                 label: '2 - AI能书写论文',
                 to: '/docs/education.2/',
@@ -317,7 +317,7 @@ const config = {
             items: [
               {
                 label: '行业发展趋势',
-                to: '/docs/ai.fashion.thread/',
+                to: '/docs/ai.fashion.trends/',
               },
               {
                 label: '时尚科技',
