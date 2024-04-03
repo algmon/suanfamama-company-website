@@ -11,7 +11,7 @@ const darkCodeTheme = Prism.dark;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '算法妈妈',
-  tagline: '用人工智能技术赋能时尚与教培行业',
+  tagline: '用人工智能技术赋能时尚与教培',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -342,7 +342,7 @@ const config = {
               },
               */
               {
-                label: 'AI Fashion Course',
+                label: 'AI时尚买手课程',
                 to: '/docs/fashion.course/',
               },
               {
@@ -396,7 +396,15 @@ const config = {
               },
               {
                 label: '核心团队',
-                to: '/docs/wei',
+                to: '/docs/team',
+              },
+              {
+                label: '部门职位说明书',
+                to: '/docs/responsibility',
+              },
+              {
+                label: '员工管理制度',
+                to: '/docs/management',
               },
             ],
           },

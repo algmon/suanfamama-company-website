@@ -7,6 +7,73 @@ title: 时装周
 * 看秀选品并对当季品牌及产品进行综合评估是时尚买手的核心工作。
 * 经AI原优舍时尚买手精选的款式可[在此看到](https://lookbook.algmon.com/)
 
+## Shanghai Fashion Week 2024 FW
+* March 25th - April 1st
+
+### 重点品牌评估
+![](./img/fashion.week.sh.24/1.png)
+* 1 - Le Fame 6分 品类比较浮夸
+
+![](./img/fashion.week.sh.24/2.png)
+* 2 - 启幕 Niaparka 9分 高频率穿搭
+
+![](./img/fashion.week.sh.24/3.png)
+* 3 - Over Range 6分
+
+![](./img/fashion.week.sh.24/4.png)
+* 4 - Damowang 8分
+
+![](./img/fashion.week.sh.24/5.png)
+* 5 - Selkie 7分
+
+![](./img/fashion.week.sh.24/6.png)
+* 6 - J Rureminds
+
+![](./img/fashion.week.sh.24/7.png)
+* 7 - Sprayground
+
+![](./img/fashion.week.sh.24/8.png)
+* 8 - Merrycheno
+
+![](./img/fashion.week.sh.24/9.png)
+* 9 - Comme MOI
+
+![](./img/fashion.week.sh.24/10.png)
+* 10 - 偶得
+
+![](./img/fashion.week.sh.24/11.png)
+* 11 - LFAX
+
+![](./img/fashion.week.sh.24/12.png)
+* 12 - DongLi 东黎
+
+![](./img/fashion.week.sh.24/13.png)
+* 13 - PHORM
+
+![](./img/fashion.week.sh.24/14.png)
+* 14 - 荷木
+
+![](./img/fashion.week.sh.24/15.png)
+* 15 - 花木深
+
+![](./img/fashion.week.sh.24/16.png)
+* 16 - 森马
+
+![](./img/fashion.week.sh.24/17.png)
+* 17 - ONLY
+
+![](./img/fashion.week.sh.24/18.png)
+* 18 - Moution
+
+### Day 1 (2024-03-25)
+### Day 2 (2024-03-26)
+### Day 3 (2024-03-27)
+### Day 4 (2024-03-28)
+### Day 5 (2024-03-29)
+### Day 6 (2024-03-30)
+### Day 7 (2024-03-31)
+### Day 8 (2024-04-01)
+
 ## Paris Fashion Week 2024 FW
 * Feb 26 - March 5
 
