@@ -107,15 +107,17 @@ const config = {
             position: 'left',
             items: [
               {
-                label: 'AI通用智能助手Rita',
+                label: 'AI通用智能体助手Rita',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
+              /*
               {
                 label: 'AI能力平台',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar2',
               },
+              */
               /*
               {
                 label: '多模态垂类大模型',
@@ -127,7 +129,6 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'productSidebar3',
               },
-              */
               {
                 label: 'AI自习室',
                 href: 'https://education.algmon.com/',
@@ -136,6 +137,7 @@ const config = {
                 label: 'AI服装买手店',
                 href: 'https://fashion.algmon.com/',
               },
+              */
             ],
           },
           {
@@ -161,7 +163,7 @@ const config = {
                 sidebarId: 'techSidebar2',
               },
               {
-                label: '精准问答',
+                label: '精准问答 (Precise QA)',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar11',
               },
@@ -387,7 +389,7 @@ const config = {
             title: '公司',
             items: [
               {
-                label: '广州市越秀区麦栏街20号',
+                label: '广州越秀区麦栏街20号野隐基地',
                 href: 'https://www.algmon.com', // TODO: Change to the correct one
               },
               {

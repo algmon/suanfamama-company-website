@@ -3,6 +3,8 @@ sidebar_position: 2
 ---
 
 # 买手店 Multibrand Boutique
+![](./img/AI.fashion.store.logo.png)
+
 ## 关键洞察
 * Mix-and-Match是现代买手店核心竞争力，我们使用AIGC赋能服装行业；
 * 疫情暴发加快了消费者从线下往线上迁移的步伐，但这并不意味着线下实体的消亡。相反，物理和情感意义上的体验和驻留将变得尤为可贵；

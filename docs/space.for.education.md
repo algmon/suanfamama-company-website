@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 人工智能自习室
+# 教培智能体加持下的AI自习室
 ## 欢迎您
 ![](https://res.cloudinary.com/djba6ta1n/image/upload/v1707570573/algmon/algmon-company-website/space/welcome.png)
 
@@ -29,16 +29,12 @@ sidebar_position: 1
 
 ## 学员风采 & 图册
 
-![](https://res.cloudinary.com/djba6ta1n/image/upload/v1707570573/algmon/algmon-company-website/space/1.png)
-* 每天都有团队相伴
-
 ![](https://res.cloudinary.com/djba6ta1n/image/upload/v1707570572/algmon/algmon-company-website/space/2.png)
 * AI工具助我高效高质完成校内作业
 
 ## AI工具
-* [算法妈妈语文曾老师](https://www.algmon.com/docs/gpts/chinese)
-* [算法妈妈数学黄老师](https://www.algmon.com/docs/gpts/math)
-* [算法妈妈英语陈老师](https://www.algmon.com/docs/gpts/math)
+![](./img/xiaoji.png)
+* 添加算法妈妈智能教培小机（智能体）以获取最新教培资讯
 
 ## 咨询及报名
 
@@ -46,4 +42,4 @@ sidebar_position: 1
 * 请添加小玲教务长微信以了解更多
 
 ## 校区地址
-* 北京路校区：广州市越秀区麦栏街20号
+* 北京路校区：广州市越秀区麦栏街20号3层
