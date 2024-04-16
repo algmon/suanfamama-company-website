@@ -2,9 +2,10 @@
 sidebar_position: 1
 ---
 
-# AI时尚买手课程
+# 《AI时尚买手》课程
 ![](./img/ai.fashion.course.cover.png)
 * Course Front Cover: A robot is designing with his creactivity.
+* 题图：一个机器人正在用创意进行设计。
 
 ## 简介
 * 课程的中文名是《AI时尚买手》，这是一个线上线下相结合的课程。如有兴趣，请咨询我们。
@@ -17,7 +18,7 @@ sidebar_position: 1
 * Mainly for all levels of designers.
 * age 11+
 
-## Prerequisite
+## Prerequisite 前置知识
 * Solid Computer Science & Design foundation
 * Have good interest in design is a plus
 
@@ -42,93 +43,106 @@ sidebar_position: 1
 * 服饰单品选择，搭配及上新。其中独立维持线上店铺及运营是核心工作；
 
 ### 目前人才需求
-* （实习生）AI时尚买手 3名 2k+/月
-* （初级）AI时尚买手 1名 5k+/月
-* （中级）AI时尚买手 1名 8k+/月
-* （资深）AI时尚买手 1名 20k+/月
+* 直至2024年Q2季度，AI时尚买手部门基本构建完成，以下为具体分工：
+  * AI时尚买手 - 销售侧
+  * AI时尚买手 - 新媒体运营侧
+  * AI时尚买手 - 设计侧
+  * AI时尚买手 - 版型工艺及柔性制造侧
 
-## Class Schedule
-### Lecture 1
+## 课程大纲
+### Lecture 1 第一课
     * Topic: AI Trends
     * 专题：人工智能行业发展趋势
+    * Date: 
     * 课程讲义 [人工智能发展趋势](https://www.algmon.com/docs/ai.trends/)
-### Lecture 2
+### Lecture 2 第二课
     * Topic: Fashion Trends
     * 专题：时尚行业发展趋势
+    * Date: 
     * 课程讲义 [时尚行业发展趋势](https://www.algmon.com/docs/ai.fashion.trends/)
-### Lecture 3
+### Lecture 3 第三课
     * Topic: Use AI Tools to generate beautiful nail design & ADD new products to store
     * 专题：使用AI工具设计并生成美甲效果图
     * Date: 20240201
     * 课程讲义 [AI时尚入门.第一课时.时尚美甲设计](https://docs.qq.com/doc/DTXVLRUJNa1BPTkty)
-### Lecture 4
+### Lecture 4 第四课
     * Topic: Set fashion standard and score prediction
     * 专题：AI原优舍美感特征矩阵、特征分解、排序及预测
     * Date: 20240208
     * 课程讲义 [AI时尚入门.第二课时.美感特征矩阵](https://docs.qq.com/doc/DTW54bHhjYmxTa2RW)
-### Lecture 5
+### Lecture 5 第五课
     * Topic: Use Vision model to generate text for product description & sales
     * 专题：销售图文文案与负面评价编写及生成
     * Date: 20240215
     * 课程讲义 [AI时尚入门.第三课时.销售文案生成](https://docs.qq.com/doc/DTUxwa3RKamFUcmhI)
-### Lecture 6
+### Lecture 6 第六课
     * Topic: Use AI Tools to design jewellry product image and model look (Part 1)
     * 专题：使用AI工具设计并生成饰品产品照 - Midjourney
     * Date: 20240217
     * 课程讲义 [AI时尚入门.第四课时.时尚饰品设计 via MJ](https://docs.qq.com/doc/DTUJGS29PQ3NEWnZl)
-### Lecture 7
+### Lecture 7 第七课
     * Topic: Use AI Tools to design jewellry product image and model look (Part 2)
     * 专题：使用AI工具设计并生成饰品模特照 - Stable Diffusion
     * Date: 20240229
     * 课程讲义 [AI时尚入门.第五课时.时尚饰品设计 via SD](https://docs.qq.com/doc/DTVpCY1FUV01KTHZS)
-### Lecture 8
+### Lecture 8 第八课
     * Topic：ComfyUI workflow for jewellry design - Part 1 the Basic
     * 专题：使用ComfyUI基础工作流以进行设计
     * Date：20240309
     * 课程讲义 [AI时尚入门.第六课时.时尚饰品设计 via 工作流](https://docs.qq.com/doc/DTXJPRHlOZ2VwdXJV)
-### Lecture 9
+### Lecture 9 第九课
     * Topic: ComfyUI workflow for jewellry design - Part 2 the Advance
     * 专题：设计自己的ComfyUI工作流
     * Date：20240321
     * 课程讲义：[AI时尚入门.第八课时.时尚饰品设计 via 自研工作流](https://docs.qq.com/doc/DTXNHWHVRdFFGUExF)
-### Lecture 10
+### Lecture 10 第十课
     * Topic: How to use crawler to crawl and perform data analysis on social media
     * 专题：通过爬虫工具获取小红书品牌及传播力分析
     * Date: 20240328
-### Lecture 11
+    * 课程讲义：
+### Lecture 11 第十一课
     * Topic: 
     * 专题：如何通过使用Coze平台及自有知识库制作AI时尚买手分身
     * Date:
-### Lecture 12
+    * 课程讲义：
+### Lecture 12 第十二课
     * Topic: 
     * 专题：如何通过使用现代进销存功能实现线上线下一体化
     * Date:
-### Lecture 13
+    * 课程讲义：
+### Lecture 13 第十三课
     * Topic: 
     * 专题：如何通过使用普通手机或专业相机拍摄专业产品照、模特照及视频
     * Date:
-### Lecture 14
-    * Topic: 
+    * 课程讲义：
+### Lecture 14 第十四课
+    * Topic：Natural Language Processing & Basic Computer Programming
+    * 专题：自然语言与计算机编程
+    * Date：
+    * 课程讲义：[自然语言与计算机编程](https://vxioqj5vp8v.feishu.cn/wiki/ThP7wuqEpiqN41kAeUpcvko6n6H)
+### Lecture 15 第十五课
+    * Topic：
     * 专题：学员Demo Day及颁发结业证书
-    * Date:
+    * Date：
+    * 课程讲义：
 
 ## Class Project (Selected Topics)
 1. Use AIGC tools to design your first fashion collection.
 2. Use AIGC and automation tools to set up your first AI powered fashion store.
 3. Use AIGC tools to upgrade your recognition dimension from 2D to 4D.
-4. 小红书时尚买手品牌及传播力分析
+4. 社交网络如小红书时尚买手品牌及传播力分析
 
 ## Instructor 1
-* Wei Jiang from Algmon
+* Wei Jiang from Suanfamama
 * 10 years experience in the area of Big Data & AI
 * PhD in computer science of New York University
 * Master in computer science of University of Southern California
 
 ## Instructor 2
-* Youling Zhang from Algmon
+* Youling Zhang from Suanfamama
 
 ## TA
-* Anying from Algmon
+* Anying from Suanfamama
 
 ## Notes
 * The above is subject to change and we thank online education platform such as skillshare.
