@@ -348,13 +348,15 @@ const config = {
                 to: '/docs/fashion.course/',
               },
               {
-                label: '四大时装周',
+                label: '时装周',
                 to: '/docs/fashion.week',
               },
+              /*
               {
                 label: 'SS24 新中式',
                 to: '/docs/fashion.collection.SS24',
               },
+              */
             ],
           },
           {
@@ -400,6 +402,11 @@ const config = {
                 label: '核心团队',
                 to: '/docs/team',
               },
+              /*
+              {
+                label: '所获荣誉',
+                to: '/docs/hornor',
+              },
               {
                 label: '部门职位说明书',
                 to: '/docs/responsibility',
@@ -408,6 +415,7 @@ const config = {
                 label: '员工管理制度',
                 to: '/docs/management',
               },
+              */
             ],
           },
         ],
