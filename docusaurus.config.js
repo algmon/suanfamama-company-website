@@ -11,7 +11,7 @@ const darkCodeTheme = Prism.dark;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '算法妈妈',
-  tagline: '用人工智能技术赋能时尚与教培',
+  tagline: '用人工智能技术赋能千行百业',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -360,6 +360,16 @@ const config = {
             ],
           },
           {
+            title: '信息安全行业',
+            items: [
+              {
+                label: '行业发展趋势',
+                to: '/docs/ai.security/',
+              },
+            ],
+          },
+          /*
+          {
             title: '行业案例',
             items: [
               {
@@ -372,6 +382,7 @@ const config = {
               },
             ],
           },
+          */
           /*
           {
             title: '社交群组',
@@ -391,16 +402,16 @@ const config = {
             title: '公司',
             items: [
               {
-                label: '广州越秀区麦栏街20号野隐基地',
-                href: 'https://www.algmon.com', // TODO: Change to the correct one
-              },
-              {
                 to: '/docs/about/',
                 label: '公司简介',
               },
               {
                 label: '核心团队',
                 to: '/docs/team',
+              },
+              {
+                label: '地址：广州市越秀区麦栏街20号野隐人工智能创新实验基地',
+                href: 'https://www.suanfamama.com', // TODO: Change to the correct one
               },
               /*
               {

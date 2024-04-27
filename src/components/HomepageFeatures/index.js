@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
+  /*
   {
     title: 'LLM with RAG',
     Svg: require('@site/static/img/chip-intelligence-processor-svgrepo-com.svg').default,
@@ -12,21 +13,31 @@ const FeatureList = [
       </>
     ),
   },
+  */
   {
-    title: 'Fashion Industry',
+    title: '时尚业务',
     Svg: require('@site/static/img/android-bionic-hand-svgrepo-com.svg').default,
     description: (
       <>
-        以实体买手店作为链接客户与与服饰搭配的桥梁，为客户提供数千款精品服饰单品。
+        以线上线下买手店作为链接客户与服饰搭配的桥梁，为客户提供千万种精品服饰单品。
       </>
     ),
   },
   {
-    title: 'Education Industry',
+    title: '教培业务',
     Svg: require('@site/static/img/camera-control-device-svgrepo-com.svg').default,
     description: (
       <>
-        以空间作为链接学员、教师及家长的桥梁，为学员提供有益德育和学术指导。
+        以空间作为链接学员、教师及家长的桥梁，为学员提供有益德育与学术指导。
+      </>
+    ),
+  },
+  {
+    title: '信息安全业务',
+    Svg: require('@site/static/img/eye-private-retina-svgrepo-com.svg').default,
+    description: (
+      <>
+        使用人工智能赋能安全团队精准分析和重大安全事件处理能力。
       </>
     ),
   },
