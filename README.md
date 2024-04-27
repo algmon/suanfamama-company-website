@@ -1,6 +1,7 @@
-# Website
+# 算法妈妈官网
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+* https://www.suanfamama.com/
+* This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
