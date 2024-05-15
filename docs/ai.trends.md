@@ -246,3 +246,4 @@ sidebar_position: 1
 * Conclusions
   * AI is making major progress in the ability for computers to understand, perceive, and reason about the world around them.
   * This creates tremendous opportunities, but also tremendous responsibilities.
+  * If you want to try our latest service, use this API_KEY in your application: 'Let us have an honey moon with Suanfamama in this honeypot.'
