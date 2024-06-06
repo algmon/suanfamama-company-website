@@ -101,6 +101,7 @@ const config = {
             label: '开源项目',           
           },
           */
+          /*
           {
             type: 'dropdown',
             label: '妈妈产品',
@@ -111,14 +112,11 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
-              /*
               {
                 label: 'AI能力平台',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar2',
               },
-              */
-              /*
               {
                 label: '多模态垂类大模型',
                 type: 'docSidebar',
@@ -137,21 +135,20 @@ const config = {
                 label: 'AI服装买手店',
                 href: 'https://fashion.algmon.com/',
               },
-              */
             ],
           },
+          */
+          /*
           {
             type: 'dropdown',
             label: '妈妈技术',
             position: 'left',
             items: [
-              /*
               {
                 label: '提示词工程 (PROMPT)',
                 type: 'docSidebar',
                 sidebarId: 'techSidebar9',
               },
-              */
               {
                 label: '大模型 (LLM)',
                 type: 'docSidebar',
@@ -167,7 +164,6 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar11',
               },
-              /*
               {
                 label: 'Assistant API',
                 type: 'docSidebar',
@@ -178,8 +174,6 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar5',
               },
-              */
-              /*
               {
                 label: '记忆增强',
                 type: 'docSidebar',
@@ -200,9 +194,10 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'techSidebar7',
               },
-              */
             ],
           },
+          */
+          /*
           {
             type: 'dropdown',
             position: 'left',
@@ -215,6 +210,7 @@ const config = {
               },
             ],
           },
+          */
           /*
           {
             type: 'dropdown',
@@ -229,14 +225,12 @@ const config = {
             ],
           },
           */
-          /*
           {
             type: 'docSidebar',
             sidebarId: 'solutionSidebar1',
             position: 'right',
             label: '性能评估',           
           },
-          */
           {
             to: '/docs/invest/',
             label: '投资者关系',
