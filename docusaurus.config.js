@@ -11,7 +11,7 @@ const darkCodeTheme = Prism.dark;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '算法妈妈',
-  tagline: '用人工智能技术赋能千行百业',
+  tagline: '认知计算广告先行者',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -88,30 +88,16 @@ const config = {
             label: '妈妈技术解读',           
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'progressSidebar1',
-            position: 'left',
-            label: '妈妈进展',           
-          },
-          /*
-          {
-            type: 'docSidebar',
-            sidebarId: 'openSidebar1',
-            position: 'left',
-            label: '开源项目',           
-          },
-          */
-          /*
-          {
             type: 'dropdown',
             label: '妈妈产品',
             position: 'left',
             items: [
               {
-                label: 'AI通用智能体助手Rita',
+                label: '通用智能体小妈妈',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
+              /*
               {
                 label: 'AI能力平台',
                 type: 'docSidebar',
@@ -135,7 +121,23 @@ const config = {
                 label: 'AI服装买手店',
                 href: 'https://fashion.algmon.com/',
               },
+              */
             ],
+          },
+          /*
+          {
+            type: 'docSidebar',
+            sidebarId: 'progressSidebar1',
+            position: 'left',
+            label: '妈妈进展',           
+          },
+          */
+          /*
+          {
+            type: 'docSidebar',
+            sidebarId: 'openSidebar1',
+            position: 'left',
+            label: '开源项目',           
           },
           */
           /*
@@ -225,12 +227,14 @@ const config = {
             ],
           },
           */
+          /*
           {
             type: 'docSidebar',
             sidebarId: 'solutionSidebar1',
             position: 'right',
             label: '性能评估',           
           },
+          */
           {
             to: '/docs/invest/',
             label: '投资者关系',
@@ -250,6 +254,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          {
+            title: '计算广告行业',
+            items: [
+              {
+                label: '行业发展趋势',
+                to: '/docs/computational.advertising/',
+              },
+            ],
+          },
           {
             title: '人工智能行业',
             items: [
@@ -273,37 +286,6 @@ const config = {
               {
                 label: '3 - 在心理学中使用大模型',
                 to: '/docs/education.3/',
-              },
-              */
-            ],
-          },
-          {
-            title: '教培行业',
-            items: [
-              {
-                label: '行业发展趋势',
-                to: '/docs/ai.education.trends/',
-              },
-              {
-                label: 'AI赋能教育',
-                to: '/docs/education.0/',
-              },
-              {
-                label: '教师应与AI为伍',
-                to: '/docs/education.1/',
-              },
-              /*
-              {
-                label: 'AI Math Course',
-                to: '/docs/math.course/',
-              },
-              {
-                label: 'AI English Course',
-                to: '/docs/eng.course/',
-              },
-              {
-                label: '2 - AI能书写论文',
-                to: '/docs/education.2/',
               },
               */
             ],
@@ -353,15 +335,6 @@ const config = {
               */
             ],
           },
-          {
-            title: '信息安全行业',
-            items: [
-              {
-                label: '行业发展趋势',
-                to: '/docs/ai.security/',
-              },
-            ],
-          },
           /*
           {
             title: '行业案例',
@@ -373,6 +346,37 @@ const config = {
               {
                 label: '人工智能自习室',
                 to: '/docs/space.for.education',
+              },
+            ],
+          },
+          */
+          /*
+          {
+            title: '教培行业',
+            items: [
+              {
+                label: '行业发展趋势',
+                to: '/docs/ai.education.trends/',
+              },
+              {
+                label: 'AI赋能教育',
+                to: '/docs/education.0/',
+              },
+              {
+                label: '教师应与AI为伍',
+                to: '/docs/education.1/',
+              },
+              {
+                label: 'AI Math Course',
+                to: '/docs/math.course/',
+              },
+              {
+                label: 'AI English Course',
+                to: '/docs/eng.course/',
+              },
+              {
+                label: '2 - AI能书写论文',
+                to: '/docs/education.2/',
               },
             ],
           },
@@ -404,7 +408,7 @@ const config = {
                 to: '/docs/team',
               },
               {
-                label: '地址：广州市越秀区麦栏街20号野隐人工智能创新实验基地',
+                label: '地址：广州市越秀区麦栏街20号',
                 href: 'https://www.suanfamama.com', // TODO: Change to the correct one
               },
               /*
@@ -424,7 +428,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2020 - ${new Date().getFullYear()} 算法妈妈，用爱与技术赋能。`,
+        copyright: `Copyright © 2020 - ${new Date().getFullYear()} 算法妈妈`,
       },
       prism: {
         theme: lightCodeTheme,

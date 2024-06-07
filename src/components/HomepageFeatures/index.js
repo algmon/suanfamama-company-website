@@ -15,29 +15,29 @@ const FeatureList = [
   },
   */
   {
-    title: '时尚业务',
+    title: '认知',
     Svg: require('@site/static/img/android-bionic-hand-svgrepo-com.svg').default,
     description: (
       <>
-        以线上线下买手店作为链接客户与服饰搭配的桥梁，为客户提供千万种精品服饰单品。
+        智能体，包括人类及机器，对广告信息的理解和处理能力。
       </>
     ),
   },
   {
-    title: '教培业务',
+    title: '情感',
     Svg: require('@site/static/img/camera-control-device-svgrepo-com.svg').default,
     description: (
       <>
-        以空间作为链接学员、教师及家长的桥梁，为学员提供有益德育与学术指导。
+        智能体，包括人类和机器，对广告信息所产生的情感反应和情绪状态。
       </>
     ),
   },
   {
-    title: '信息安全业务',
+    title: '意动',
     Svg: require('@site/static/img/eye-private-retina-svgrepo-com.svg').default,
     description: (
       <>
-        使用人工智能赋能安全团队精准分析和重大安全事件处理能力。
+        智能体，包括人类和机器，在接收到广告信息后的行为意图和行动倾向。
       </>
     ),
   },
