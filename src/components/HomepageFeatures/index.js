@@ -15,29 +15,29 @@ const FeatureList = [
   },
   */
   {
-    title: '认知',
+    title: '计算',
     Svg: require('@site/static/img/android-bionic-hand-svgrepo-com.svg').default,
     description: (
       <>
-        智能体，包括人类及机器，对广告信息的理解和处理能力。
+        基于大数据、人工智能及用户反馈而构建
       </>
     ),
   },
   {
-    title: '情感',
+    title: '广告',
     Svg: require('@site/static/img/camera-control-device-svgrepo-com.svg').default,
     description: (
       <>
-        智能体，包括人类和机器，对广告信息所产生的情感反应和情绪状态。
+        基于AIGC知识库及智能体间的情感依赖
       </>
     ),
   },
   {
-    title: '意动',
+    title: '生成',
     Svg: require('@site/static/img/eye-private-retina-svgrepo-com.svg').default,
     description: (
       <>
-        智能体，包括人类和机器，在接收到广告信息后的行为意图和行动倾向。
+        在条件下生成广告需求的文，图及视频以达降本增效
       </>
     ),
   },

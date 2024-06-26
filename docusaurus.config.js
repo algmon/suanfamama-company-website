@@ -11,7 +11,7 @@ const darkCodeTheme = Prism.dark;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '算法妈妈',
-  tagline: '认知计算广告先行者',
+  tagline: '专业计算广告技术提供商',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -408,7 +408,7 @@ const config = {
                 to: '/docs/team',
               },
               {
-                label: '地址：广州市越秀区麦栏街20号',
+                label: '地址：广州市越秀区麦栏街20号野隐人工智能创新基地',
                 href: 'https://www.suanfamama.com', // TODO: Change to the correct one
               },
               /*
