@@ -1,6 +1,6 @@
-# 算法妈妈官网
+# 广州算法妈妈技术有限公司官网（源代码）
 
-* https://www.suanfamama.com/
+* 网址：https://www.suanfamama.com/
 * This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
