@@ -15,10 +15,10 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag suanfamama-company-website:${VERSION} --build-arg VERSION=1.0.0
+      run: docker build . --file Dockerfile --tag suanfamama-company-website:1.0.0
     - name: Login to the Docker Container Server Service Provider
       run:
         docker login ${{ secrets.DOCKER_REGISTRY }} -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
     - name: Push the Built Docker Image to the Registry
       run:
-        docker push ${{ secrets.DOCKER_REGISTRY }}/suanfamama-company-website:${VERSION}
+        docker push ${{ secrets.DOCKER_REGISTRY }}/suanfamama-company-website:1.0.0
