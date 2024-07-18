@@ -15,7 +15,11 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag suanfamama-company-website:1.0.0
+      run: 
+        docker build . --file Dockerfile --tag suanfamama-company-website:1.0.0
+    - name: Pull the Docker Image from docker.io
+      run: 
+        docker pull suanfamama-company-website:1.0.0
     - name: Login to the Docker Container Server Service Provider
       run:
         docker login ${{ secrets.DOCKER_REGISTRY }} -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
