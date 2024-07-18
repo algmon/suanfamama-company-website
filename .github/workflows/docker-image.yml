@@ -16,7 +16,8 @@ jobs:
     - uses: actions/checkout@v4
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
-    - name: Push the Docker image to a registry
+    - name: Login to the Docker Container Server Service Provider
       run:
         docker login ${{ secrets.DOCKER_REGISTRY }} -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
+    - name: Push the Built Docker Image to the Registry
         docker push ${{ secrets.DOCKER_REGISTRY }}/suanfamama-company-website:$(date +%s)
