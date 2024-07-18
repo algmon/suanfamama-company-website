@@ -1,6 +1,9 @@
 # Use the official Node.js image as the base
 FROM node:18-alpine
 
+# Define the image version
+ENV VERSION=1.0.0
+
 # Set the working directory
 WORKDIR /app
 
