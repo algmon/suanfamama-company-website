@@ -11,7 +11,7 @@ const darkCodeTheme = Prism.dark;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '算法妈妈',
-  tagline: '专业计算广告技术提供商',
+  tagline: '认知计算技术先行者',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -93,30 +93,43 @@ const config = {
             position: 'left',
             items: [
               {
-                label: '通用智能体小妈妈',
+                label: 'AIGC垂类智能体小妈妈',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar1',
               },
               /*
               {
-                label: 'AI能力平台',
+                label: 'AIGC基础能力平台',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar2',
               },
-              {
-                label: '多模态垂类大模型',
-                type: 'docSidebar',
-                sidebarId: 'productSidebar4',
-              },
+              */
+              /*
               {
                 label: 'Algmon GPTs',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar3',
               },
+              */
+              /*
+              {
+                label: '多模态垂类大模型',
+                type: 'docSidebar',
+                sidebarId: 'productSidebar4',
+              },
+              */
+              {
+                label: 'AIGC认知计算广告生成平台',
+                type: 'docSidebar',
+                sidebarId: 'productSidebar5',
+              },
+              /*
               {
                 label: 'AI自习室',
                 href: 'https://education.algmon.com/',
               },
+              */
+              /*
               {
                 label: 'AI服装买手店',
                 href: 'https://fashion.algmon.com/',
