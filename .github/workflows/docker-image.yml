@@ -20,4 +20,5 @@ jobs:
       run:
         docker login ${{ secrets.DOCKER_REGISTRY }} -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
     - name: Push the Built Docker Image to the Registry
+      run:
         docker push ${{ secrets.DOCKER_REGISTRY }}/suanfamama-company-website:$(date +%s)
