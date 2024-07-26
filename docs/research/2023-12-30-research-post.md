@@ -10,7 +10,7 @@ title: 12月30日论文解读
 ### Abstract
 We introduce the Segment Anything (SA) project: a new task, model, and dataset for image segmentation. Using our efficient model in a data collection loop, we built the largest segmentation dataset to date (by far), with over 1 billion masks on 11M licensed and privacy respecting images. The model is designed and trained to be promptable, so it can transfer zero-shot to new image distributions and tasks. We evaluate its capabilities on numerous tasks and find that its zero-shot performance is impressive – often competitive with or even superior to prior fully supervised results. We are releasing the Segment Anything Model (SAM) and corresponding dataset (SA-1B) of 1B masks and 11M images at https://segment-anything.com to foster research into foundation models for computer vision.
 
-### ALGMON the paper
+### Suanfamama the paper
 The paper "Segment Anything" introduces the Segment Anything (SA) project, which encompasses a new task, model, and dataset for image segmentation. This project has led to the creation of the largest segmentation dataset to date, featuring over 1 billion masks on 11 million licensed and privacy-respecting images. The SA project aims to build a foundation model for image segmentation, leveraging a promptable segmentation task, a corresponding model (SAM), and a data engine for collecting the SA-1B dataset. This approach allows for zero-shot transfer to new image distributions and tasks through prompt engineering.
 
 ### Key Components of the Segment Anything Project:

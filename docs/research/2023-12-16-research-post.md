@@ -5,7 +5,7 @@ title: 12月16日论文解读
 
 ## Papers in Education
 
-We recommend using [算法妈妈每日论文解读GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du) in order to have the best research experience. 'ALGMON' - 'VIZ' - 'IMAGINE' is currently our best practices for paper exploration.
+We recommend using [算法妈妈每日论文解读GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du) in order to have the best research experience. 'Suanfamama' - 'VIZ' - 'IMAGINE' is currently our best practices for paper exploration.
 
 ### the GPT intro
 
@@ -15,7 +15,7 @@ We recommend using [算法妈妈每日论文解读GPTs](https://chat.openai.com/
 ### Paper 01
 * [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://ar5iv.labs.arxiv.org/html/2307.10635)
 
-#### ALGMON the paper
+#### Suanfamama the paper
 You can access the full paper via the following [link](https://ar5iv.org/abs/2307.10635)
 
 "SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models" is a research paper that introduces a new benchmark suite named SciBench. This suite is designed to systematically examine the reasoning capabilities required for complex scientific problem-solving. It includes two datasets of college-level scientific problems:
@@ -87,7 +87,7 @@ And so, Little Bot continued his journey, with a heart full of questions and a m
 ### Paper 02
 * [EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education](https://ar5iv.labs.arxiv.org/html/2308.02773)
 
-#### ALGMON the paper
+#### Suanfamama the paper
 The paper is [here](https://ar5iv.labs.arxiv.org/html/2308.02773)
 
 "EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education" is a research paper introducing EduChat, a chatbot system designed to enhance intelligent education through the application of large-scale language models (LLMs). Here are some key aspects of EduChat:

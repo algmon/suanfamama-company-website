@@ -24,8 +24,8 @@ tags: [算法妈妈]
 
 6. 公司人才招聘，我们目前开放招聘以下岗位：CTO * 1名，大模型全栈研发工程师 * 3名，有意者请联系江纬。We are looking forward to work with Mark；
 
-7. 更新 官网[大模型](https://www.algmon.com/docs/llm-basics/welcome)技术板块，和大家分享大模型基础知识；
+7. 更新 官网[大模型](https://www.Suanfamama.com/docs/llm-basics/welcome)技术板块，和大家分享大模型基础知识；
 
-8. 更新 官网[解决方案](https://www.algmon.com/docs/gpts/intro)产品板块，和大家分享我们使用GPTs为客户提供创意灵感和新版型的工具；
+8. 更新 官网[解决方案](https://www.Suanfamama.com/docs/gpts/intro)产品板块，和大家分享我们使用GPTs为客户提供创意灵感和新版型的工具；
 
 9. 我们正在寻找天使轮融资，金额约100万人民币，投资人可直接联系江纬；

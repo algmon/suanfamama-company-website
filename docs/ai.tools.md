@@ -5,9 +5,9 @@ sidebar_position: 1
 # 2024 AI Tools & Projects
 ## Core
 * [Vercel](https://vercel.com)
-* Algmon uses Vercel to deploy her frontend service.
+* Suanfamama uses Vercel to deploy her frontend service.
 * [Railway](https://railway.com)
-* Algmon uses Railway to deploy her backend service.
+* Suanfamama uses Railway to deploy her backend service.
 * [Midjourney](https://midjourney.com/)
 * AI tool for image creation
 * [Huggingface](https://huggingface.co/)

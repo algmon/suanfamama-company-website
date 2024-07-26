@@ -12,9 +12,9 @@ tags: [算法妈妈]
 # 02月第一周算法妈妈公司进展
 ## 具体进展
 
-1. 公司教培业务运行稳定。我们目前的主营业务是[AI自习室服务](https://www.algmon.com/docs/space.for.education)；
+1. 公司教培业务运行稳定。我们目前的主营业务是[AI自习室服务](https://www.Suanfamama.com/docs/space.for.education)；
 
-2. 公司时尚业务运行稳定。我们以[AI原优舍买手店](https://www.algmon.com/docs/space.for.fashion)作为空间载体，为客户提供丰富单品及专业搭配建议，欢迎线上线下与我们的核心买手进行沟通与选品。我们使用AIGC赋能服装行业；
+2. 公司时尚业务运行稳定。我们以[AI原优舍买手店](https://www.Suanfamama.com/docs/space.for.fashion)作为空间载体，为客户提供丰富单品及专业搭配建议，欢迎线上线下与我们的核心买手进行沟通与选品。我们使用AIGC赋能服装行业；
 
 3. 公司人工智能业务运行稳定。2024年Q1季度的重点是虚拟试衣相关技术的持续优化和市场推广；
 

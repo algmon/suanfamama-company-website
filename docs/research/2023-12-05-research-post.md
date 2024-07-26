@@ -4,7 +4,7 @@ title: 12月05日论文解读
 ---
 
 ## Paper Title
-[Magicoder: Source Code Is All You Need](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/CODER.2312.02120v1.pdf)
+[Magicoder: Source Code Is All You Need](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/CODER.2312.02120v1.pdf)
 
 ![](./20231205/fig.1.png)
 

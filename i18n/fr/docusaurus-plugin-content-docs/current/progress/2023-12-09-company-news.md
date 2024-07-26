@@ -26,6 +26,6 @@ tags: [算法妈妈]
 
 6. 公司人才招聘，我们目前开放招聘以下岗位：CTO * 1名，大模型全栈应用研发工程师 * 1名，有意者请联系江纬。We are looking forward to work with Mark for the transition month；
 
-7. 算法妈妈[官网](https://www.algmon.com)持续更新，包含垂类大模型晚报（日更新），论文解读（日更新）及公司进展（周更新）。本周我们新增一篇业界重要论文解读[Google Gemini](https://www.algmon.com/docs/research/2023-12-07-research-post)，新增一篇[垂类大模型](https://www.algmon.com/docs/solution/intro)性能评估，我们在报告中详细列出了14个具体落地应用场景；
+7. 算法妈妈[官网](https://www.Suanfamama.com)持续更新，包含垂类大模型晚报（日更新），论文解读（日更新）及公司进展（周更新）。本周我们新增一篇业界重要论文解读[Google Gemini](https://www.Suanfamama.com/docs/research/2023-12-07-research-post)，新增一篇[垂类大模型](https://www.Suanfamama.com/docs/solution/intro)性能评估，我们在报告中详细列出了14个具体落地应用场景；
 
 8. 我们目前正在寻找天使轮融资，金额约数百万美元，用于项目及团队扩展，有意向投资人可直接联系江纬；

@@ -6,7 +6,7 @@ title: 技术解读 - Gemini
 ![](./20231207/fig.2.png)
 
 ## Paper Title
-[GEMINI: A Family of Highly Capable Multimodal Models](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/GEMINI.technical.report.pdf)
+[GEMINI: A Family of Highly Capable Multimodal Models](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/GEMINI.technical.report.pdf)
 
 #### Authors
 Gemini Team

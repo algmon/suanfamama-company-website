@@ -4,7 +4,7 @@ title: 12月06日论文解读
 ---
 
 ## Paper Title
-[Expanding Small-Scale Datasets with Guided Imagination](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/DATASETS.2211.13976.pdf)
+[Expanding Small-Scale Datasets with Guided Imagination](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/DATASETS.2211.13976.pdf)
 
 ![](./20231206/fig.1.png)
 

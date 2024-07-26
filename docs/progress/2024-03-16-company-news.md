@@ -12,7 +12,7 @@ tags: [算法妈妈]
 # 03月第三周算法妈妈公司进展
 ## 具体进展
 
-1. 公司AI教培业务运营稳定。[人工智能自习室](https://www.algmon.com/docs/space.for.education)和[精准问答服务](https://www.algmon.com/docs/precise-ir/intro)一起，为学员提供优秀生活和习惯养成环境；
+1. 公司AI教培业务运营稳定。[人工智能自习室](https://www.Suanfamama.com/docs/space.for.education)和[精准问答服务](https://www.Suanfamama.com/docs/precise-ir/intro)一起，为学员提供优秀生活和习惯养成环境；
 
 2. 公司时尚科技业务运营稳定；
 

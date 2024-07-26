@@ -5,7 +5,7 @@ sidebar_position: 3
 # 2023-12-01论文解读
 
 ## Paper Title
-[TaskWeaver: A Code-First Agent Framework](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/FRAMEWORK.2311.17541v1.pdf)
+[TaskWeaver: A Code-First Agent Framework](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/FRAMEWORK.2311.17541v1.pdf)
 
 ![](./20231201/fig.1.png)
 

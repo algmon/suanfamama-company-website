@@ -4,7 +4,7 @@ title: 11月30日论文解读
 ---
 
 ## Paper Title
-[Are Large Language Models Good Fact Checkers: A Preliminary Study](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/FACT.2311.17355v1.pdf)
+[Are Large Language Models Good Fact Checkers: A Preliminary Study](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/FACT.2311.17355v1.pdf)
 
 ![](./20231130/fig.1.png)
 

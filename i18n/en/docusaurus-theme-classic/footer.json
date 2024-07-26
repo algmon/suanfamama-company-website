@@ -29,26 +29,26 @@
   },
   "link.item.label.时尚": {
     "message": "Fashion",
-    "description": "The label of footer link with label=时尚 linking to https://fashion.algmon.com/"
+    "description": "The label of footer link with label=时尚 linking to https://fashion.Suanfamama.com/"
   },
   "link.item.label.教培": {
     "message": "Education",
-    "description": "The label of footer link with label=教培 linking to https://education.algmon.com/"
+    "description": "The label of footer link with label=教培 linking to https://education.Suanfamama.com/"
   },
   "link.item.label.X": {
     "message": "X",
-    "description": "The label of footer link with label=X linking to https://twitter.com/algmon2024"
+    "description": "The label of footer link with label=X linking to https://twitter.com/Suanfamama2024"
   },
   "link.item.label.微信群": {
     "message": "Wechat Group",
-    "description": "The label of footer link with label=微信群 linking to https://www.algmon.com"
+    "description": "The label of footer link with label=微信群 linking to https://www.Suanfamama.com"
   },
   "link.item.label.广州市越秀区麦栏街20号3楼全层": {
     "message": "3rd floor, Mailan Street No.20, Guangzhou, China",
-    "description": "The label of footer link with label=广州市越秀区麦栏街20号3楼全层 linking to https://www.algmon.com"
+    "description": "The label of footer link with label=广州市越秀区麦栏街20号3楼全层 linking to https://www.Suanfamama.com"
   },
   "copyright": {
-    "message": "Copyright © 2020 - 2024 Algmon, built with love.",
+    "message": "Copyright © 2020 - 2024 Suanfamama, built with love.",
     "description": "The footer copyright"
   }
 }

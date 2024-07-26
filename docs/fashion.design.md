@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # AI设计
 ## 简介
-* 目前此设计工具的完整版供公司内部设计团队使用，我们把基础版免费供大家[使用](https://www.designer.algmon.com/)。
+* 目前此设计工具的完整版供公司内部设计团队使用，我们把基础版免费供大家[使用](https://www.designer.Suanfamama.com/)。
 
 ## 设计师工作流
 * 我们主要使用Midjourney和Stable Diffusion以达到AI赋能时尚设计的目标；

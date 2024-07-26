@@ -5,7 +5,7 @@ sidebar_position: 3
 # 2023-11-28论文解读
 
 ## Paper Title
-[Simplifying Transformer Blocks](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/TRANSFORMER.2311.01906.pdf)
+[Simplifying Transformer Blocks](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/TRANSFORMER.2311.01906.pdf)
 
 ![](./20231128/fig.1.png)
 

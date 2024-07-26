@@ -5,7 +5,7 @@ title: 12月17日论文解读
 
 ## Papers in Education 
 
-We recommend using [算法妈妈每日论文解读GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du) in order to have the best research experience. 'ALGMON' - 'VIZ' - 'IMAGINE' is currently our best practices for paper exploration.
+We recommend using [算法妈妈每日论文解读GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du) in order to have the best research experience. 'Suanfamama' - 'VIZ' - 'IMAGINE' is currently our best practices for paper exploration.
 
 ### the GPT intro
 
@@ -15,7 +15,7 @@ We recommend using [算法妈妈每日论文解读GPTs](https://chat.openai.com/
 ### Paper 01
 * [An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP)](https://ar5iv.org/abs/2302.13814)
 
-#### ALGMON the paper
+#### Suanfamama the paper
 The paper "An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP)" provides a comprehensive analysis of ChatGPT's performance on mathematical word problems (MWPs) using the dataset DRAW-1K. This dataset includes 1,000 MWPs with associated answers and template algebraic equations. The study is notable as the first independent evaluation of ChatGPT in this context​​​​.
 
 In their research, the authors conducted several experiments to assess ChatGPT's ability to solve these problems. They explored how ChatGPT's performance varied based on the requirement to show its work. For example, in experiments conducted in January and February 2023, they found that ChatGPT's responses differed significantly based on whether it was prompted to show all of its work or only provide the final answer. This variation was especially pronounced after OpenAI announced improved performance on mathematical tasks in January 2023​​.
@@ -64,14 +64,14 @@ Milo won the contest, and the townsfolk cheered. He had proven that with the rig
 ### Paper 02
 * [How Is ChatGPT’s Behavior Changing over Time?](https://ar5iv.labs.arxiv.org/html/2307.09009)
 
-#### ALGMON the paper
+#### Suanfamama the paper
 The paper can be downloaded [here](https://ar5iv.labs.arxiv.org/html/2307.09009)
 
 The paper "How Is ChatGPT’s Behavior Changing over Time?" by Lingjiao Chen evaluates the performance and behavior of GPT-3.5 and GPT-4 across different versions (March 2023 and June 2023)​​​​. This study addresses the opacity surrounding the updates of these models and how such updates affect their behavior, which is vital for understanding the integration of large language models (LLMs) into broader workflows and their improvement over time​​.
 
 The evaluation covered a range of tasks, including solving math problems, responding to sensitive/dangerous questions, opinion surveys, multi-hop knowledge-intensive questions, code generation, US Medical License exams, and visual reasoning. The findings revealed **significant variations** in the performance and behavior of both GPT-3.5 and GPT-4 between the two versions, with improvements in some areas and declines in others. This highlights **the necessity of continuous monitoring of LLMs' behavior over time** to understand their evolving capabilities
 
-#### 5W methodology from algmon
+#### 5W methodology from Suanfamama
 For the paper "How Is ChatGPT’s Behavior Changing over Time?" by Lingjiao Chen, the 5W methodology can be applied as follows:
 
 1. **What is the problem?**

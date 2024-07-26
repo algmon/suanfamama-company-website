@@ -9,7 +9,7 @@ title: 12月22日论文解读
 ### Abstract
 We present VideoPoet, a language model capable of synthesizing high-quality video, with matching audio, from a large variety of conditioning signals. VideoPoet employs a decoder-only transformer architecture that processes multimodal inputs – including images, videos, text, and audio. The training protocol follows that of Large Language Models (LLMs), consisting of two stages: pretraining and task-specific adaptation. During pretraining, VideoPoet incorporates a mixture of multimodal generative objectives within an autoregressive Transformer framework. The pretrained LLM serves as a foundation that can be adapted for a range of video generation tasks. We present empirical results demonstrating the model’s state-of-the-art capabilities in zero-shot video generation, specifically highlighting VideoPoet’s ability to generate high-fidelity motions.
 
-### ALGMON the paper
+### Suanfamama the paper
 "VideoPoet: A Large Language Model for Zero-Shot Video Generation" is a research paper focusing on a novel video generation model. Unfortunately, I couldn't access the detailed contents of the paper on arXiv or other academic sources due to technical restrictions.
 
 However, from a brief overview available from Google Research, VideoPoet is designed to transform any autoregressive language model or large language model (LLM) into a high-quality video generator. Key components include:

@@ -212,7 +212,7 @@ sidebar_position: 2
 * 常用工具
   * [OOTDiffusion](https://github.com/weijiang2023/OOTDiffusion)
   * [Google Virtual Tryon](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
-  * [妈妈试衣](https://www.tryon.algmon.com/)
+  * [妈妈试衣](https://www.tryon.Suanfamama.com/)
 * 核心技术
   ![](./img/tryon.workflow.png)
   * Mix-and-Match
@@ -228,7 +228,7 @@ sidebar_position: 2
 * 常用工具
   * [WWD Runway](https://wwd.com/runway/)
   * [Vouge Runway](https://www.vogue.com/fashion-shows)
-  * [妈妈看款](https://www.lookbook.algmon.com/)
+  * [妈妈看款](https://www.lookbook.Suanfamama.com/)
 * 核心技术
   * 面料，廓形，目标客户等综合认知
 * 效果展示

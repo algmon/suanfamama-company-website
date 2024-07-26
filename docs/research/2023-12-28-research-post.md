@@ -14,7 +14,7 @@ title: 12月28日论文解读
 ### the Github Repo
 * [Link](https://github.com/ControlNet/MARLIN)
 
-### ALGMON the paper
+### Suanfamama the paper
 The paper "MARLIN: Masked Autoencoder for facial video Representation LearnINg" introduces a self-supervised approach for learning universal facial representations from videos, applicable to various facial analysis tasks like Facial Attribute Recognition (FAR), Facial Expression Recognition (FER), DeepFake Detection (DFD), and Lip Synchronization (LS). The key innovation in MARLIN is its ability to reconstruct the spatio-temporal details of a face from densely masked facial regions using non-annotated facial videos. This is achieved through a facial region-guided tube masking strategy, which aids in encoding generic and transferable features.
 
 MARLIN's design focuses on learning robust and transferable facial representations from widely available, non-annotated web-crawled facial videos. The framework is task-agnostic, meaning it can adapt its learned facial representations to various downstream tasks. The effectiveness of MARLIN is demonstrated through quantitative and qualitative analysis, showing consistent performance across different tasks including FAR, FER, DFD, and LS.

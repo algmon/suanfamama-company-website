@@ -5,7 +5,7 @@ sidebar_position: 3
 # 2023-11-29论文解读
 
 ## Paper Title
-[MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/MMMU.2311.16502v1.pdf)
+[MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/MMMU.2311.16502v1.pdf)
 
 ![](./20231129/fig.1.png)
 

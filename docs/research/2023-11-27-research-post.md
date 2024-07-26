@@ -4,7 +4,7 @@ title: 11月27日论文解读
 ---
 
 ## Paper Title
-[GAIA: A Benchmark for General AI Assistants](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/GAIA.2311.12983.v1.pdf)
+[GAIA: A Benchmark for General AI Assistants](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/GAIA.2311.12983.v1.pdf)
 
 ![](./20231127/fig.1.png)
 

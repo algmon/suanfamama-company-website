@@ -30,7 +30,7 @@ sidebar_position: 1
 * Adore Me使用ChatGPT落地商品说明助手应用
 
 ### Case Study 5
-* Algmon: Tryon fusion for mix-and-match technique
+* Suanfamama: Tryon fusion for mix-and-match technique
 * 算法妈妈使用虚拟试衣技术落地mix-and-match应用
 
 ## 候选案例

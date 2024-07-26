@@ -6,7 +6,7 @@ title: 12月12日论文解读
 ## Papers in EMNLP 2023
 ### Paper 01
 * 最佳长论文
-* [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/ANCHORS.2305.14160.pdf)
+* [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/ANCHORS.2305.14160.pdf)
 
 ![](./20231212/fig.1.1.png)
 
@@ -17,7 +17,7 @@ In-context learning (ICL) emerges as a promising capability of large language mo
 
 ### Paper 02
 * 杰出论文奖
-* [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/SEARCH.2304.09542.pdf)
+* [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/SEARCH.2304.09542.pdf)
 
 ![](./20231212/fig.2.1.png)
 
@@ -29,7 +29,7 @@ properly instructed LLMs can deliver competitive, even superior results to state
 https://github.com/sunnweiwei/RankGPT
 
 ### Paper 03
-* [LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/LINC.2310.15164.pdf)
+* [LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/LINC.2310.15164.pdf)
 
 ![](./20231212/fig.3.1.png)
 
@@ -39,7 +39,7 @@ Logical reasoning, i.e., deductively inferring the truth value of a conclusion f
 #### Github Repo
 
 ### Paper 04
-* [PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/MAGE.2023.emnlp-demo.45.pdf)
+* [PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/MAGE.2023.emnlp-demo.45.pdf)
 
 ![](./20231212/fig.4.1.png)
 
@@ -50,7 +50,7 @@ Despite growing interest in applying natural language processing (NLP) and compu
 https://github.com/allenai/papermage
 
 ### Paper 05
-* [Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/HACK.2311.16119.pdf)
+* [Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/HACK.2311.16119.pdf)
 
 ![](./20231212/fig.5.1.png)
 
@@ -60,7 +60,7 @@ Large Language Models (LLMs) are deployed in interactive contexts with direct us
 #### Github Repo
 
 ### Paper 06
-* [Personalized Dense Retrieval on Global Index for Voice-enabled Conversational Systems](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/VOICE.2023.emnlp-industry.9.pdf)
+* [Personalized Dense Retrieval on Global Index for Voice-enabled Conversational Systems](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/VOICE.2023.emnlp-industry.9.pdf)
 
 ![](./20231212/fig.6.1.png)
 

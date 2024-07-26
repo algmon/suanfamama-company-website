@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 
 # AI赋能教育
-* Originally by [Andy Extance](https://twitter.com/andyextance?lang=en) and edited by [algmon](https://twitter.com/algmon2024)
+* Originally by [Andy Extance](https://twitter.com/andyextance?lang=en) and edited by [Suanfamama](https://twitter.com/Suanfamama2024)
 
 ## 关键洞察
 1. AI自习室是落地AI技术的有效形式；
@@ -103,7 +103,7 @@ He likens the attention that they’re attracting to that previously lavished on
 
 Tawil, who has worked in education at UNESCO for more than two decades, says that understanding AI’s limitations is crucial. At the same time, LLMs are now so bound up in human endeavours that he says it is essential to rethink how to teach and assess learning. “It’s redefining what makes us human, what is unique about our intelligence.”
 
-### Algmon Suggested TODOs
+### Suanfamama Suggested TODOs
 #### People to contact
 * Claire Zau
 * Ronald Beghetto

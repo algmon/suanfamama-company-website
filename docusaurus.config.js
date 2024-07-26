@@ -78,7 +78,7 @@ const config = {
         items: [
           {
             to: '/blog',
-            label: '妈妈晚报',
+            label: '妈妈认知计算晚报',
             position: 'left'
           },
           {
@@ -106,7 +106,7 @@ const config = {
               */
               /*
               {
-                label: 'Algmon GPTs',
+                label: 'Suanfamama GPTs',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar3',
               },
@@ -119,20 +119,20 @@ const config = {
               },
               */
               {
-                label: 'AIGC认知计算广告生成平台',
+                label: '认知计算晚报广告生成平台',
                 type: 'docSidebar',
                 sidebarId: 'productSidebar5',
               },
               /*
               {
                 label: 'AI自习室',
-                href: 'https://education.algmon.com/',
+                href: 'https://education.Suanfamama.com/',
               },
               */
               /*
               {
                 label: 'AI服装买手店',
-                href: 'https://fashion.algmon.com/',
+                href: 'https://fashion.Suanfamama.com/',
               },
               */
             ],
@@ -254,7 +254,7 @@ const config = {
             position: 'right'
           },
           {
-            href: 'https://github.com/algmon',
+            href: 'https://github.com/Suanfamama',
             label: 'GitHub',
             position: 'right',
           },
@@ -400,11 +400,11 @@ const config = {
             items: [
               {
                 label: 'X',
-                href: 'https://twitter.com/algmon2024',
+                href: 'https://twitter.com/Suanfamama2024',
               },
               {
                 label: '微信群',
-                href: 'https://www.algmon.com', // TODO: Change to the correct one
+                href: 'https://www.Suanfamama.com', // TODO: Change to the correct one
               },
             ],
           },
@@ -421,7 +421,7 @@ const config = {
                 to: '/docs/team',
               },
               {
-                label: '地址：广州市越秀区麦栏街20号野隐人工智能创新基地',
+                label: '地址：广州市越秀区麦栏街20号算法妈妈人工智能创新基地',
                 href: 'https://www.suanfamama.com', // TODO: Change to the correct one
               },
               /*

@@ -22,6 +22,6 @@ tags: [算法妈妈]
 
 5. 公司人才招聘，我们目前开放招聘以下岗位：CTO * 1名，大模型全栈研发工程师 * 3名，有意者请联系江纬；
 
-6. 官网技术板块上 新增[Assistant API](https://www.algmon.com/docs/assistantAPI/intro)，和大家分享Assistant API研发经验；
+6. 官网技术板块上 新增[Assistant API](https://www.Suanfamama.com/docs/assistantAPI/intro)，和大家分享Assistant API研发经验；
 
-7. 官网产品板块上 新增[GPTs](https://www.algmon.com/docs/gpts/intro)，和大家分享GPTs设计和使用经验；
+7. 官网产品板块上 新增[GPTs](https://www.Suanfamama.com/docs/gpts/intro)，和大家分享GPTs设计和使用经验；

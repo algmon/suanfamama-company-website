@@ -54,12 +54,12 @@ sidebar_position: 1
     * Topic: AI Trends
     * 专题：人工智能行业发展趋势
     * Date: 
-    * 课程讲义 [人工智能发展趋势](https://www.algmon.com/docs/ai.trends/)
+    * 课程讲义 [人工智能发展趋势](https://www.Suanfamama.com/docs/ai.trends/)
 ### Lecture 2 第二课
     * Topic: Fashion Trends
     * 专题：时尚行业发展趋势
     * Date: 
-    * 课程讲义 [时尚行业发展趋势](https://www.algmon.com/docs/ai.fashion.trends/)
+    * 课程讲义 [时尚行业发展趋势](https://www.Suanfamama.com/docs/ai.fashion.trends/)
 ### Lecture 3 第三课
     * Topic: Use AI Tools to generate beautiful nail design & ADD new products to store
     * 专题：使用AI工具设计并生成美甲效果图

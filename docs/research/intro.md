@@ -9,7 +9,7 @@ sidebar_position: 0
 * 大模型及垂类领域知识库
 * 智能体及工作流程自动化
 * 使用AI赋能典型应用
-* 我们使用[Algmon GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du)以总结论文核心关键
+* 我们使用[Suanfamama GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du)以总结论文核心关键
 
 ## 论文列表
 1. [2023-11-01 Text to 3D](./2023-11-01-research-post.md)

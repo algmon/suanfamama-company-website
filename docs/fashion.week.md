@@ -5,7 +5,7 @@ title: 时装周
 
 ## 简介
 * 看秀选品并对当季品牌及产品进行综合评估是时尚买手的核心工作。
-* 经AI原优舍时尚买手精选的款式可[在此看到](https://lookbook.algmon.com/)
+* 经AI原优舍时尚买手精选的款式可[在此看到](https://lookbook.Suanfamama.com/)
 
 ## Shanghai Fashion Week 2024 FW
 * March 25th - April 1st

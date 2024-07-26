@@ -5,13 +5,13 @@ sidebar_position: 3
 # 大语言模型之于心理学
 ## Using large language models in psychology
 ## Authors
-* Originally by Dorottya Demszky et. al. and edited by Algmon
+* Originally by Dorottya Demszky et. al. and edited by Suanfamama
 
 ## Published Date
 * 18 Dec, 2023
 
-## Algmon Psychologist (in alpha)
-We recommend using [Algmon Psychologist](https://chat.openai.com/g/g-aAZXemzWz-algmon-psychologist) as an effective online consulting service. If you are in serious condition, consult the local hospital and certified professionals instead.
+## Suanfamama Psychologist (in alpha)
+We recommend using [Suanfamama Psychologist](https://chat.openai.com/g/g-aAZXemzWz-Suanfamama-psychologist) as an effective online consulting service. If you are in serious condition, consult the local hospital and certified professionals instead.
 
 ## Abstract
 Large language models (LLMs), such as OpenAI’s GPT-4, Google’s Bard or Meta’s LLaMa, have created unprecedented opportunities for analysing and generating language data on a massive scale. This new technology has the potential to transform the field of psychology, as language data play a central role in all areas of psychology. In this Perspective, we review the foundations of LLMs and explain how they are constructed to effectively generate human-like linguistic output without the ability to think or feel like a human.
@@ -88,7 +88,7 @@ Importantly, the privacy and confidentiality of language data will need to be ac
 ## References
 * Using large language models in psychology, nature reviews psychology, Vol 2
 
-## Algmon Suggested TODOs
+## Suanfamama Suggested TODOs
 * Try DocsGPT
 * Try LLM with RAG
 * Invest a Keystone dataset in psychology

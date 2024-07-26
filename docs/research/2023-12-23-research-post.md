@@ -9,7 +9,7 @@ title: 12月23日论文解读
 ### Abstract
 * Large language models (LLMs) have been widely applied in various fields due to their excellent capability for memorizing knowledge and chain of thought (CoT). When these language models are applied in the field of psychological counseling, they often rush to provide universal advice. However, when users seek psychological support, they need to gain empathy, trust, understanding and comfort, rather than just reasonable advice. To this end, we constructed a multi-turn empathetic conversation dataset of more than 2 million samples, in which the input is the multi-turn conversation context, and the target is empathetic responses that cover expressions such as questioning, comfort, recognition, listening, trust, emotional support, etc. Experiments have shown that the empathy ability of LLMs can be significantly enhanced when finetuning by using multi-turn dialogue history and responses that are closer to the expression of a psychological consultant.
 
-### ALGMON the paper
+### Suanfamama the paper
 * The paper can be downloaded [here](https://ar5iv.labs.arxiv.org/html/2311.00273)
 * The paper "SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations" focuses on enhancing the empathetic abilities of large language models (LLMs) in psychological counseling contexts. Here's an analysis based on the 5W methodology:
 

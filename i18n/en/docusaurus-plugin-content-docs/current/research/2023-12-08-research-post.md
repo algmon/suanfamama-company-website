@@ -5,7 +5,7 @@ sidebar_position: 3
 # 2023-12-08论文解读
 
 ## Paper Title
-[GPT4 Vision](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/GPTV.System.Card.pdf)
+[GPT4 Vision](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/GPTV.System.Card.pdf)
 
 #### Authors
 OpenAI

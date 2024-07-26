@@ -20,7 +20,7 @@ jobs:
     - name: Pull the Docker Image from docker.io
       run: 
         docker pull suanfamama-company-website:1.0.0
-    - name: Login to the Docker Container Server Service Provider
+    - name: Login to the Tencent Cloud Container Host Provider
       run:
         docker login ${{ secrets.DOCKER_REGISTRY }} -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
     - name: Push the Built Docker Image to the Registry

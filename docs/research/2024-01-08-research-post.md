@@ -22,7 +22,7 @@ LoRA, which stands for Low-Rank Adaptation, is a technique used in machine learn
 
 ![](./20240108/fig.2.png)
 
-#### ALGMON the paper
+#### Suanfamama the paper
 The paper "Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning" proposes a novel architecture called MoCLE (Mixture of Cluster-conditional LoRA Experts) to address the challenges in instruction tuning of Large Vision-language Models (LVLMs). Instruction tuning has been pivotal in empowering Large Language Models (LLMs) and LVLMs to follow human instructions, demonstrating strong generalization across various tasks. However, the diversity in training tasks and formats can lead to task conflicts, affecting the model's performance on instruction-following tasks.
 
 MoCLE aims to resolve this by clustering instructions of training data into several centroids using a pretrained model, grouping similar tasks that can positively influence each other. It employs a router at each model layer that dispatches input data to one of the specialized task experts or a universal expert shared across all data. These outputs are then combined and passed to the next layer, striking a balance between specialization and generalization. This approach mitigates task conflicts and improves the model's ability to generalize across tasks.

@@ -5,7 +5,7 @@ title: 12月18日论文解读
 
 ## Papers in Education 
 
-We recommend using [算法妈妈每日论文解读GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du) in order to have the best research experience. 'ALGMON' - 'VIZ' - 'IMAGINE' is currently our best practices for paper exploration.
+We recommend using [算法妈妈每日论文解读GPTs](https://chat.openai.com/g/g-d85WVbueb-suan-fa-ma-ma-mei-ri-lun-wen-jie-du) in order to have the best research experience. 'Suanfamama' - 'VIZ' - 'IMAGINE' is currently our best practices for paper exploration.
 
 ### the GPT intro
 
@@ -23,7 +23,7 @@ An inherent limitation of word representations is their indifference to word ord
 
 ![](./20231218/fig.1.png)
 
-#### ALGMON the paper
+#### Suanfamama the paper
 The paper titled "Distributed Representations of Words and Phrases and their Compositionality" by Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean, submitted to arXiv in October 2013, can be found at this [link](https://ar5iv.labs.arxiv.org/html/1310.4546)​​.
 
 ##### 1. What is the problem?

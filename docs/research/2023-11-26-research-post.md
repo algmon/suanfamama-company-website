@@ -4,7 +4,7 @@ title: 11月26日论文解读
 ---
 
 ## Paper Title
-[An Embodied Generalist Agent in 3D World](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/AGENT.2311.12871.v1.pdf)
+[An Embodied Generalist Agent in 3D World](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/AGENT.2311.12871.v1.pdf)
 
 ![](./20231126/fig.1.png)
 

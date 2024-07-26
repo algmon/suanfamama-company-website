@@ -12,9 +12,9 @@ tags: [算法妈妈]
 # 01月第三周公司进展
 ## 具体进展
 
-1. 公司教培业务运行稳定。我们主要为学员提供（1）[AI自习室](https://www.algmon.com/docs/space.for.education)及（2）[精准问答服务](https://www.algmon.com/docs/precise-ir/intro)，在此祝愿学员及家庭寒假愉快；
+1. 公司教培业务运行稳定。我们主要为学员提供（1）[AI自习室](https://www.Suanfamama.com/docs/space.for.education)及（2）[精准问答服务](https://www.Suanfamama.com/docs/precise-ir/intro)，在此祝愿学员及家庭寒假愉快；
 
-2. 公司时尚业务运行稳定。我们以[AI原优舍买手店](https://www.algmon.com/docs/space.for.fashion)作为空间载体，为客户提供丰富单品及搭配供客户选择，欢迎线上线下与核心买手进行沟通交流与选品；
+2. 公司时尚业务运行稳定。我们以[AI原优舍买手店](https://www.Suanfamama.com/docs/space.for.fashion)作为空间载体，为客户提供丰富单品及搭配供客户选择，欢迎线上线下与核心买手进行沟通交流与选品；
 
 3. 公司人工智能业务运行稳定。我们持续为各行业客户提供实用且专业的技术咨询及人工智能相关项目落地实施及推进能力；
 

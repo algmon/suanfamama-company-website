@@ -14,7 +14,7 @@ title: 01月02日论文解读
 #### Abstract
 We present ControlNet, a neural network architecture to add spatial conditioning controls to large, pretrained text-to-image diffusion models. ControlNet locks the production-ready large diffusion models, and reuses their deep and robust encoding layers pretrained with billions of images as a strong backbone to learn a diverse set of conditional controls. The neural architecture is connected with “zero convolutions” (zero-initialized convolution layers) that progressively grow the parameters from zero and ensure that no harmful noise could affect the finetuning. We test various conditioning controls, e.g., edges, depth, segmentation, human pose, etc., with Stable Diffusion, using single or multiple conditions, with or without prompts. We show that the training of ControlNets is robust with small and large datasets. Extensive results show that ControlNet may facilitate wider applications to control image diffusion models.
 
-#### ALGMON the paper
+#### Suanfamama the paper
 The paper "Adding Conditional Control to Text-to-Image Diffusion Models" introduces ControlNet, a neural network structure designed to augment large diffusion models with the ability to handle additional input conditions. This enhancement allows for greater control and flexibility in image generation tasks. Key aspects of the paper include:
 
 1. **ControlNet's Design and Capability**: ControlNet is an end-to-end neural network architecture that enhances large image diffusion models, such as Stable Diffusion, by enabling them to learn task-specific input conditions. It achieves this by creating two copies of the model: a 'trainable copy' for learning the new conditions, and a 'locked copy' that retains the original model's capabilities. This design allows ControlNet to handle a variety of input conditions, including edge maps, segmentation maps, keypoints, and more.
@@ -27,7 +27,7 @@ The paper "Adding Conditional Control to Text-to-Image Diffusion Models" introdu
 
 Overall, the paper presents ControlNet as a significant advancement in the field of image generation, offering enhanced control and adaptability across different tasks and computational environments. This development could potentially enrich methods to control large diffusion models and facilitate a wide range of related applications.
 
-#### Algmon 5W methodology
+#### Suanfamama 5W methodology
 To analyze the paper "Adding Conditional Control to Text-to-Image Diffusion Models" using the 5W methodology, we will consider five key questions:
 
 1. **What is the problem?**

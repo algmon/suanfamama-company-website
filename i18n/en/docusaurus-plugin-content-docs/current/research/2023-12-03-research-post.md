@@ -5,7 +5,7 @@ sidebar_position: 3
 # 2023-12-03论文解读
 
 ## Paper Title
-[CRITIQUE LLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/CRITIQUE.2311.18702v1.pdf)
+[CRITIQUE LLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/CRITIQUE.2311.18702v1.pdf)
 
 ![](./20231203/fig.1.png)
 

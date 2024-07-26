@@ -17,7 +17,7 @@ Large Language Models (LLMs) demonstrate significant capabilities but face chall
 ![](./20231219/fig.1.png)
 * Database seperation is the king.
 
-#### ALGMON the paper
+#### Suanfamama the paper
 The paper titled "Retrieval-Augmented Generation for Large Language Models: A Survey" has been found on arXiv with the identifier [2312.10997]. You can access the paper directly via the following link: [arXiv:2312.10997](https://arxiv.org/abs/2312.10997).
 
 This paper addresses the concept of Retrieval-Augmented Generation (RAG) in the context of Large Language Models (LLMs). RAG refers to the process of retrieving relevant information from external knowledge bases before LLMs generate responses or answers. This approach is particularly significant for addressing challenges in LLMs, such as hallucinations, slow knowledge updates, and lack of transparency in answers. The paper is likely to provide a comprehensive survey of the techniques and methods used in RAG, analyzing their effectiveness and applicability in various scenarios.

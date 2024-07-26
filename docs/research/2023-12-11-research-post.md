@@ -5,7 +5,7 @@ title: 12月11日论文解读
 
 ## Paper Title
 * （EMNLP 2023 杰出论文奖）
-* [Is ChatGPT Good at Search?](https://github.com/weijiang2023/algmon-kb/blob/main/kb/computer.science/SEARCH.2304.09542.pdf)
+* [Is ChatGPT Good at Search?](https://github.com/weijiang2023/Suanfamama-kb/blob/main/kb/computer.science/SEARCH.2304.09542.pdf)
 
 ![](./20231211/fig.1.png)
 
