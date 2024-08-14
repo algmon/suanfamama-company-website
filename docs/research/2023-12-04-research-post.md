@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-title: 12月04日论文解读
+title: LLM Application for Health Care
 ---
 
 ## Paper Title

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-title: 12月03日论文解读
+title: LLM Application for Critic
 ---
 
 ## Paper Title

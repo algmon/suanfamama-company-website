@@ -1,6 +1,6 @@
 ---
 sidebar_position: 21
-title: 12月17日论文解读
+title: NeurlPS 2023 Papers
 ---
 
 ## Papers in Education 

@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: 11月26日论文解读
+sidebar_position: 2
+title: Embodied Agent
 ---
 
 ## Paper Title

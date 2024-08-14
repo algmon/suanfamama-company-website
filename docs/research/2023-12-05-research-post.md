@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: 12月05日论文解读
+title: LLM Application for coding assistant
 ---
 
 ## Paper Title

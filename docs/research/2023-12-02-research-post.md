@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-title: 12月02日论文解读
+title: Agent Shortage
 ---
 
 ## Paper Title

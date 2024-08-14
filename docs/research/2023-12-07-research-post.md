@@ -1,6 +1,6 @@
 ---
 sidebar_position: 99
-title: 技术解读 - Gemini
+title: LLM Example - Gemini
 ---
 
 ![](./20231207/fig.2.png)

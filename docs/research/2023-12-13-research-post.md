@@ -1,6 +1,6 @@
 ---
-sidebar_position: 17
-title: 12月13日论文解读
+sidebar_position: 16
+title: EMNLP 2023 Papers
 ---
 
 ## Papers in EMNLP 2023

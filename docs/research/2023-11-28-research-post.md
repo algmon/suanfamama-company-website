@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
-title: 11月28日论文解读
+sidebar_position: 4
+title: Architecture Optimization
 ---
 
 ## Paper Title

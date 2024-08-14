@@ -1,6 +1,6 @@
 ---
-sidebar_position: 14
-title: 12月09日论文解读
+sidebar_position: 13
+title: LLM Application for Math & Reasoning
 ---
 
 ## Paper Title

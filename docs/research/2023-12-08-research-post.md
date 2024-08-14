@@ -1,6 +1,6 @@
 ---
-sidebar_position: 13
-title: 12月08日论文解读
+sidebar_position: 12
+title: LLM Example - GPT4 Vision
 ---
 
 ## Paper Title

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 11月01日论文解读
+title: Conditioned Diffusion
 ---
 
 ![](./20231101/1.png)

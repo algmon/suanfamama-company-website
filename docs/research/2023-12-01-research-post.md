@@ -1,6 +1,6 @@
 ---
-sidebar_position: 6
-title: 12月01日论文解读
+sidebar_position: 7
+title: Agent Framework
 ---
 
 ## Paper Title

@@ -1,6 +1,6 @@
 ---
-sidebar_position: 16
-title: 12月11日论文解读
+sidebar_position: 14
+title: Search with ChatGPT
 ---
 
 ## Paper Title

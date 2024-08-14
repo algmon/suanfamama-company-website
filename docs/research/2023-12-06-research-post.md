@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-title: 12月06日论文解读
+title: Dataset Synthesis & Expansion
 ---
 
 ## Paper Title

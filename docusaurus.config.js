@@ -85,11 +85,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'researchSidebar1',
             position: 'left',
-            label: '妈妈技术解读',           
+            label: '妈妈认知计算技术解读',           
           },
           {
             type: 'dropdown',
-            label: '妈妈产品',
+            label: '妈妈认知计算产品',
             position: 'left',
             items: [
               {
@@ -268,7 +268,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '计算广告行业',
+            title: '认知计算广告行业',
             items: [
               {
                 label: '行业发展趋势',
@@ -304,7 +304,7 @@ const config = {
             ],
           },
           {
-            title: '时尚行业',
+            title: '认知计算时尚行业',
             items: [
               {
                 label: '行业发展趋势',
@@ -421,7 +421,7 @@ const config = {
                 to: '/docs/team',
               },
               {
-                label: '地址：广州市越秀区麦栏街20号算法妈妈人工智能创新基地',
+                label: '地址：广州市越秀区麦栏街20号野隐人工智能创新基地',
                 href: 'https://www.suanfamama.com', // TODO: Change to the correct one
               },
               /*

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 19
-title: 12月15日论文解读
+title: NeurlPS 2023 Papers
 ---
 
 ## Papers in NeurlPS 2023

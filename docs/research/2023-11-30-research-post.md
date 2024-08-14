@@ -1,6 +1,6 @@
 ---
-sidebar_position: 5
-title: 11月30日论文解读
+sidebar_position: 6
+title: LLM Application for Fact Checking
 ---
 
 ## Paper Title
