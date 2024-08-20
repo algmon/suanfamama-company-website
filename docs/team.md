@@ -35,13 +35,6 @@ title: 核心团队
 * 负责公司整体销售 & 人事
 * 联系方式：jiali@suanfamama.com
 
-### 梁心怡 Xinyi Liang
-#### 简介
-* 初级AI时尚买手
-* 在资深买手指导下负责公司时尚业务线
-* 心怡同学是广东海洋大学服装设计与工程的优秀毕业生，专业排名前10%。她学习能力高，性格活泼开朗，专业能力扎实。
-* 联系方式：xinyi@suanfamama.com
-
 ### 陈轶恒 Yiheng Chen
 #### 简介
 * 中级AI时尚买手
@@ -56,13 +49,6 @@ title: 核心团队
 * 小叶致力于成为一位优秀服装人，他本科毕业于广州美术学院，由其擅长材料的运用及再造、面料图案设计、植物染、羊毛毡等技术。
 * 联系方式：xiaoye@suanfamama.com
 
-### 张丹丹 Dandan Zhang
-#### 简介
-* 初级AI时尚买手
-* 在资深买手指导下负责公司时尚业务线
-* 丹丹是一名在校大学生，专业是视觉传递。她对时尚，新媒体及拍摄有独特的敏感度。
-* 联系方式：dandan@suanfamama.com
-
 ## 人工智能部门
 ### 江纬 Wei Jiang
 
@@ -70,25 +56,25 @@ title: 核心团队
 * 公司创始人
 * 联系方式: wei@suanfamama.com
 
-### 严咏楠 Yongnan Yan
-* AI工程师（全栈）
-* 全栈模块设计及实现
-* 联系方式：yongnan@suanfamama.com
-
 ### 彭彬 Bin Peng
-* AI工程师（全栈）
+* 工程师（全栈）
 * 全栈模块设计及实现
 * 联系方式：bin@suanfamama.com
 
-### 巫乐天 Letian Wu
-* AI工程师（全栈）
+### 林逸丰 Yifeng Lin
+* 工程师（全栈）
 * 全栈模块设计及实现
-* 联系方式：letian@suanfamama.com
+* 联系方式：yifeng@suanfamama.com
 
 ### 戚昊羽 Haoyu Qi
 * AI工程师（算法）
 * 算法模块设计及实现
 * 联系方式：haoyu@suanfamama.com
+
+### 李子忠 Zizhong Li
+* AI工程师（算法）
+* 算法模块设计及实现
+* 联系方式：zizhong@suanfamama.com
 
 ## 公司顾问委员会
 ### 余永权教授 Yongquan Yu
