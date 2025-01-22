@@ -1,6 +1,6 @@
 ---
 sidebar_position: 96
-title: 技术解读 - AI Agent
+title: AI Agent
 ---
 
 ### 论文标题
