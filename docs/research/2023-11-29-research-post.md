@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Evaluation Benchmark for Multimodal
+title: Evaluation Benchmark for Multimodal Models
 ---
 
 ## Paper Title
