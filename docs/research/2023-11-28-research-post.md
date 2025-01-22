@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Architecture Optimization
+title: Optimization - Nerual Network Block Architecture
 ---
 
 ## Paper Title
