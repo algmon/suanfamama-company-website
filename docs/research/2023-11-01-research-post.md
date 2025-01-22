@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Conditioned Diffusion
+title: Diffusion with Condition
 ---
 
 ![](./20231101/1.png)
