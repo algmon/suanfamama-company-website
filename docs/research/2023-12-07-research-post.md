@@ -1,6 +1,6 @@
 ---
 sidebar_position: 99
-title: Gemini
+title: Model Example - Gemini
 ---
 
 ![](./20231207/fig.2.png)
