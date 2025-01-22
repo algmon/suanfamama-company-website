@@ -1,7 +1,5 @@
-# 广州算法妈妈技术有限公司官网（源代码）
-
-* 网址：https://www.suanfamama.com/
-* This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# Suanfamama Official Company Website 算法妈妈官网源代码
+* Website: https://www.suanfamama.com/
 
 ### Installation
 
@@ -26,17 +24,8 @@ $ yarn build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
+* We use vercel service for static website hosting.
 
-Using SSH:
-
+* ```
+$ vercel
 ```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
