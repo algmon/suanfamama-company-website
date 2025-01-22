@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Evaluation Benchmark
+title: Empirical Evaluation Benchmark
 ---
 
 ## Paper Title
