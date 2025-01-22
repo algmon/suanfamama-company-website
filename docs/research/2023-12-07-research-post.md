@@ -1,6 +1,6 @@
 ---
 sidebar_position: 99
-title: LLM Example - Gemini
+title: Gemini
 ---
 
 ![](./20231207/fig.2.png)
