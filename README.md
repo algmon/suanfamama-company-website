@@ -3,6 +3,7 @@
 
 ### Changelog
 * 20250503 We have updated the core team of the company
+* 20250123 We have updated the intro section of the company
 
 ### Installation
 
