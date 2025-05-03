@@ -1,5 +1,8 @@
-# Suanfamama Official Company Website 算法妈妈官网源代码
-* Website: https://www.suanfamama.com/
+# Suanfamama Official Website 算法妈妈官网源代码
+* https://www.suanfamama.com/
+
+### Changelog
+* 20250503 We have updated the core team of the company
 
 ### Installation
 
