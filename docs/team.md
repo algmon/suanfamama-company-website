@@ -56,7 +56,7 @@ title: 核心团队
 * 公司创始人
 * 联系方式: wei@suanfamama.com
 
-### 某亮 Liang
+### 某良 Liang
 
 #### 简介
 * 高级算法工程师
