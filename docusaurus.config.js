@@ -47,17 +47,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        theme: {
+        },theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
@@ -75,13 +65,7 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            to: '/blog',
-            label: '妈妈认知计算晚报',
-            position: 'left'
-          },
-          {
+        items: [{
             type: 'docSidebar',
             sidebarId: 'researchSidebar1',
             position: 'left',
