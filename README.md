@@ -82,12 +82,6 @@ suanfamama-company-website/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Changelog
-
-- **2025-05-03** - Updated core team information
-- **2025-01-23** - Updated company introduction section
-- **2026-02-04** - Improved README documentation
-
 ## License
 
 See [LICENSE](LICENSE) file for details.
