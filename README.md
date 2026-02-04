@@ -1,36 +1,103 @@
 # Suanfamama Official Website 算法妈妈官网源代码
-* https://www.suanfamama.com/
 
-### Changelog
-* 20250503 We have updated the core team of the company
-* 20250123 We have updated the intro section of the company
+The official company website for Suanfamama (算法妈妈) - Cognitive Computing Technology Pioneer.
 
-### Installation
+🌐 **Live Site:** https://www.suanfamama.com/
 
+## About
+
+Suanfamama is a cognitive computing technology company focused on AI solutions for various industries including:
+
+- **Computational Advertising** - AI-driven ad generation and optimization
+- **Artificial Intelligence** - Industry insights, trends, and tools
+- **Cognitive Computing in Fashion** - Fashion tech, brand analysis, and AI fashion courses
+- **AI in Education** - Educational technology and AI-powered learning
+
+## Tech Stack
+
+- **Framework:** Docusaurus 3.0
+- **Language:** JavaScript (React)
+- **Deployment:** Vercel
+- **Version Control:** Git
+- **Package Manager:** Yarn
+
+## Features
+
+- **Bilingual Support** - Chinese (Simplified) and English
+- **Daily News Blog** - "妈妈认知计算晚报" (Cognitive Computing Evening News)
+- **Product Documentation** - Detailed product information and technical docs
+- **Industry Insights** - Trends, case studies, and market analysis
+- **Mobile Responsive** - Optimized for all devices
+
+## Installation
+
+```bash
+$ yarn install
 ```
-$ yarn
-```
 
-### Local Development
+## Local Development
 
-```
+```bash
 $ yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This command starts a local development server and opens a browser window. Most changes are reflected live without restarting the server.
 
-### Build
+Available at: `http://localhost:3000`
 
-```
+## Build
+
+```bash
 $ yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+This command generates static content into the `build` directory for production deployment.
 
-### Deployment
+## Deployment
 
-```
+The website is deployed using Vercel:
+
+```bash
 $ vercel
 ```
 
-We use vercel service for website hosting.
+## Project Structure
+
+```
+suanfamama-company-website/
+├── blog/           # Daily news posts (认知计算晚报)
+├── docs/           # Documentation pages
+├── i18n/           # Internationalization files
+├── src/            # React components and pages
+├── static/         # Static assets (images, SVGs, etc.)
+├── docusaurus.config.js  # Site configuration
+└── package.json    # Dependencies and scripts
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## Changelog
+
+- **2025-05-03** - Updated core team information
+- **2025-01-23** - Updated company introduction section
+- **2026-02-04** - Improved README documentation
+
+## License
+
+See [LICENSE](LICENSE) file for details.
+
+## Contact
+
+- **Website:** https://www.suanfamama.com/
+- **GitHub:** https://github.com/algmon/suanfamama-company-website
+- **Location:** 广州市越秀区麦栏街20号野隐人工智能创新基地
+
+---
+
+© 2020-2026 算法妈妈 (Suanfamama). All rights reserved.
