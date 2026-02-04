@@ -96,7 +96,6 @@ See [LICENSE](LICENSE) file for details.
 
 - **Website:** https://www.suanfamama.com/
 - **GitHub:** https://github.com/algmon/suanfamama-company-website
-- **Location:** 广州市越秀区麦栏街20号野隐人工智能创新基地
 
 ---
 
